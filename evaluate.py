@@ -1,4 +1,4 @@
-"""Evaluate trained models on the test split."""
+"""Evaluate trained models on the test split with robust label alignment."""
 
 from __future__ import annotations
 
@@ -9,7 +9,10 @@ from pathlib import Path
 
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
 from joblib import load
+from sklearn.metrics import confusion_matrix
 
 from src.evaluation.metrics import compute_classification_metrics
 from src.models.challenger_poisson import PoissonModelBundle
@@ -29,10 +32,7 @@ DROP_COLUMNS = {
 
 
 def split_by_date(
-    df: pd.DataFrame,
-    train_end: str,
-    val_end: str,
-    date_col: str = "date",
+    df: pd.DataFrame, train_end: str, val_end: str, date_col: str = "date"
 ) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
     df = df.copy()
     df[date_col] = pd.to_datetime(df[date_col], errors="coerce")
@@ -47,14 +47,17 @@ def split_by_date(
 
 def prepare_features(df: pd.DataFrame, feature_columns: list[str]) -> pd.DataFrame:
     X = df.drop(columns=list(DROP_COLUMNS), errors="ignore")
+    # On s'assure d'avoir EXACTEMENT les mêmes colonnes dans le même ordre
+    X_final = pd.DataFrame(index=df.index)
     for col in feature_columns:
-        if col not in X.columns:
-            X[col] = pd.NA
-    X = X[feature_columns]
-    bool_cols = X.select_dtypes(include=["bool"]).columns
-    for col in bool_cols:
-        X[col] = X[col].astype(int)
-    return X
+        if col in X.columns:
+            X_final[col] = X[col]
+        else:
+            X_final[col] = 0  # Valeur par défaut si colonne manquante
+
+    for col in X_final.select_dtypes(include=["bool"]).columns:
+        X_final[col] = X_final[col].astype(int)
+    return X_final
 
 
 def load_json(path: Path) -> list[str]:
@@ -72,9 +75,7 @@ def main() -> None:
     parser.add_argument("--train-end", default="2022-01-01", help="Train end date")
     parser.add_argument("--val-end", default="2024-01-01", help="Validation end date")
     parser.add_argument(
-        "--output",
-        default="data/processed/metrics.csv",
-        help="Output metrics CSV",
+        "--output", default="data/processed/metrics.csv", help="Output metrics CSV"
     )
     args = parser.parse_args()
 
@@ -84,6 +85,9 @@ def main() -> None:
     models_dir = Path(args.models_dir)
     feature_columns = load_json(models_dir / "feature_columns.json")
     label_classes = load_json(models_dir / "label_classes.json")
+
+    # On utilise l'ordre alphabétique pour le calcul des métriques (D, L, W)
+    ordered_labels = sorted(label_classes)
 
     X_test = prepare_features(test_df, feature_columns)
     y_test = test_df["result"].astype(str).tolist()
@@ -96,27 +100,68 @@ def main() -> None:
         "challenger_poisson": models_dir / "challenger_poisson.pkl",
     }
 
+    plots_dir = Path("data/processed/plots")
+    plots_dir.mkdir(parents=True, exist_ok=True)
+
     for name, path in model_paths.items():
         if not path.exists():
             logger.warning("Model not found: %s", path)
             continue
 
         model = load(path)
+
         if isinstance(model, PoissonModelBundle):
             proba_df = model.predict_proba(X_test)
-            y_proba = proba_df[label_classes].to_numpy()
+            y_proba = proba_df[ordered_labels].to_numpy()
         else:
-            y_proba = model.predict_proba(X_test)
+            # Predict_proba renvoie souvent un array numpy
+            y_proba_raw = model.predict_proba(X_test)
 
-        metrics = compute_classification_metrics(y_test, y_proba, label_classes)
+            # Récupération des classes réelles du modèle (ex: [0, 1, 2] ou ['W', 'D', 'L'])
+            model_classes = list(model.classes_)
+
+            # Mapping intelligent : on transforme les indices en labels réels
+            # On suppose que l'ordre des colonnes de y_proba correspond à model.classes_
+            y_proba_dict = {}
+            for i, cls in enumerate(model_classes):
+                # Si le modèle a des classes 0, 1, 2, on utilise label_classes.json pour traduire
+                label = (
+                    label_classes[cls] if isinstance(cls, (int, np.integer)) else cls
+                )
+                y_proba_dict[label] = y_proba_raw[:, i]
+
+            # On reconstruit y_proba dans l'ordre alphabétique [D, L, W]
+            y_proba = np.column_stack([y_proba_dict[l] for l in ordered_labels])
+
+        # Calcul des métriques
+        metrics = compute_classification_metrics(y_test, y_proba, ordered_labels)
         metrics["model"] = name
         results.append(metrics)
 
+        # --- Matrice de Confusion ---
+        y_pred = [ordered_labels[i] for i in np.argmax(y_proba, axis=1)]
+        viz_order = ["W", "D", "L"]
+        cm = confusion_matrix(y_test, y_pred, labels=viz_order)
+
+        plt.figure(figsize=(7, 5))
+        sns.heatmap(
+            cm,
+            annot=True,
+            fmt="d",
+            cmap="Blues",
+            xticklabels=viz_order,
+            yticklabels=viz_order,
+        )
+        plt.title(f"Confusion Matrix: {name}")
+        plt.xlabel("Predicted")
+        plt.ylabel("Actual")
+        plt.savefig(plots_dir / f"cm_{name}.png", bbox_inches="tight")
+        plt.close()
+
     results_df = pd.DataFrame(results).sort_values("log_loss")
-    output_path = Path(args.output)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-    results_df.to_csv(output_path, index=False)
-    logger.info("Saved metrics to %s", output_path)
+    results_df.to_csv(args.output, index=False)
+    logger.info("Évaluation terminée avec réalignement des étiquettes.")
+    print(results_df[["model", "accuracy", "log_loss"]])
 
 
 if __name__ == "__main__":
