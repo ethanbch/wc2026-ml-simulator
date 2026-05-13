@@ -10,7 +10,7 @@ LEAGUES ?= Big 5 European Leagues Combined
 SEASONS ?= 2022-2024
 
 INTL_RESULTS ?= $(RAW_DIR)/international_results.csv
-fifa_rankings ?= $(RAW_DIR)/fifa_rankings.csv
+FIFA_RANKINGS ?= $(RAW_DIR)/fifa_rankings.csv
 SQUAD_CSV ?= $(RAW_DIR)/squads.csv
 PLAYER_STATS ?= $(FBREF_DIR)/player_standard.csv
 
@@ -28,7 +28,7 @@ N_SIMULATIONS ?= 1000
 
 WITH_TEAM_FEATURES ?= 1
 
-MATCH_ARGS = --matches-csv $(INTL_RESULTS) --fifa-rankings $(fifa_rankings) --out $(MATCH_DATASET)
+MATCH_ARGS = --matches-csv $(INTL_RESULTS) --fifa-rankings $(FIFA_RANKINGS) --out $(MATCH_DATASET)
 ifeq ($(WITH_TEAM_FEATURES),1)
 MATCH_ARGS += --team-features $(TEAM_FEATURES)
 endif
@@ -79,7 +79,7 @@ match-dataset:
 build-dataset:
 	$(PY) build_dataset.py \
 		--international-results "$(INTL_RESULTS)" \
-		--fifa-rankings "$(fifa_rankings)" \
+		--fifa-rankings "$(FIFA_RANKINGS)" \
 		--squad-csv "$(SQUAD_CSV)" \
 		--player-stats "$(PLAYER_STATS)" \
 		--dataset-out "$(MATCH_DATASET)" \
@@ -103,7 +103,7 @@ simulate:
 		--feature-columns "$(FEATURE_COLUMNS)" \
 		--label-classes "$(LABEL_CLASSES)" \
 		--historical-matches "$(INTL_RESULTS)" \
-		--fifa-rankings "$(fifa_rankings)" \
+		--fifa-rankings "$(FIFA_RANKINGS)" \
 		--team-features "$(TEAM_FEATURES)" \
 		--groups-csv "$(WC_GROUPS)" \
 		--schedule-csv "$(WC_SCHEDULE)" \
