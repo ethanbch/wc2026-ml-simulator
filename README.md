@@ -210,6 +210,7 @@ Confusion matrices for each model are exported to `data/processed/plots/` as
 
 ![image](notebooks/outputs/top10.png)
 ![image](notebooks/outputs/survie.png)
+![image](notebooks/outputs/features.png)
 
 ### Key Findings
 
