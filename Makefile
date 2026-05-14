@@ -51,33 +51,33 @@ help:
 	@echo "  clean             Remove processed artifacts"
 
 fbref:
-	$(PY) -m mlfoot.data_collection.fbref_scraper \
+	$(PY) -m src.data_collection.fbref_scraper \
 		--leagues "$(LEAGUES)" \
 		--seasons "$(SEASONS)" \
 		--cache-dir "$(FBREF_CACHE)" \
 		--output-dir "$(FBREF_DIR)"
 
 team-features:
-	$(PY) -m mlfoot.features.fbref_aggregator \
+	$(PY) -m src.features.fbref_aggregator \
 		--squad-csv "$(SQUAD_CSV)" \
 		--player-stats "$(PLAYER_STATS)" \
 		--out "$(TEAM_FEATURES)"
 
 elo:
-	$(PY) -m mlfoot.features.elo_calculator \
+	$(PY) -m src.features.elo_calculator \
 		--matches-csv "$(INTL_RESULTS)" \
 		--out "$(ELO_HISTORY)"
 
 form:
-	$(PY) -m mlfoot.features.rolling_form \
+	$(PY) -m src.features.rolling_form \
 		--matches-csv "$(INTL_RESULTS)" \
 		--out "$(FORM_FEATURES)"
 
 match-dataset:
-	$(PY) -m mlfoot.features.feature_builder $(MATCH_ARGS)
+	$(PY) -m src.features.feature_builder $(MATCH_ARGS)
 
 build-dataset:
-	$(PY) -m mlfoot.pipelines.build_dataset \
+	$(PY) -m src.pipelines.build_dataset \
 		--international-results "$(INTL_RESULTS)" \
 		--fifa-rankings "$(FIFA_RANKINGS)" \
 		--squad-csv "$(SQUAD_CSV)" \
@@ -88,17 +88,17 @@ build-dataset:
 		--form-out "$(FORM_FEATURES)"
 
 train:
-	$(PY) -m mlfoot.pipelines.train_models \
+	$(PY) -m src.pipelines.train_models \
 		--dataset "$(MATCH_DATASET)" \
 		--models-dir "$(MODELS_DIR)"
 
 evaluate:
-	$(PY) -m mlfoot.pipelines.evaluate \
+	$(PY) -m src.pipelines.evaluate \
 		--dataset "$(MATCH_DATASET)" \
 		--models-dir "$(MODELS_DIR)"
 
 simulate:
-	$(PY) -m mlfoot.pipelines.simulate_wc2026 \
+	$(PY) -m src.pipelines.simulate_wc2026 \
 		--model-path "$(MODELS_DIR)/champion_xgboost.pkl" \
 		--feature-columns "$(FEATURE_COLUMNS)" \
 		--label-classes "$(LABEL_CLASSES)" \
@@ -113,7 +113,7 @@ simulate:
 dataset: team-features match-dataset
 
 full:
-	$(PY) -m mlfoot.pipelines.full_pipeline --n-simulations "$(N_SIMULATIONS)"
+	$(PY) -m src.pipelines.full_pipeline --n-simulations "$(N_SIMULATIONS)"
 
 clean:
 	rm -f "$(TEAM_FEATURES)" "$(MATCH_DATASET)" "$(ELO_HISTORY)" "$(FORM_FEATURES)" "$(SIM_OUTPUT)"

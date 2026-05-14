@@ -17,10 +17,10 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder, StandardScaler
 from sklearn.model_selection import TimeSeriesSplit
 
-from mlfoot.models.challenger_lightgbm import build_lightgbm_classifier
-from mlfoot.models.challenger_logistic import build_logistic_classifier
-from mlfoot.models.challenger_poisson import fit_poisson_bundle
-from mlfoot.models.champion_xgboost import build_xgb_classifier
+from src.models.challenger_lightgbm import build_lightgbm_classifier
+from src.models.challenger_logistic import build_logistic_classifier
+from src.models.challenger_poisson import fit_poisson_bundle
+from src.models.champion_xgboost import build_xgb_classifier
 
 from . import config
 

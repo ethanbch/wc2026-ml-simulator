@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from mlfoot.pipelines.full_pipeline import main as pipeline_main
+from src.pipelines.full_pipeline import main as pipeline_main
 
 
 if __name__ == "__main__":

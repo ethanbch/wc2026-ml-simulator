@@ -14,8 +14,8 @@ import seaborn as sns
 from joblib import load
 from sklearn.metrics import confusion_matrix
 
-from mlfoot.evaluation.metrics import compute_classification_metrics
-from mlfoot.models.challenger_poisson import PoissonModelBundle
+from src.evaluation.metrics import compute_classification_metrics
+from src.models.challenger_poisson import PoissonModelBundle
 
 from . import config
 

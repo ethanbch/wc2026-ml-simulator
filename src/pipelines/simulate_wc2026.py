@@ -12,10 +12,10 @@ import pandas as pd
 from joblib import load
 from tqdm import tqdm
 
-from mlfoot.data_collection.data_loader import normalize_team_name
-from mlfoot.features.elo_calculator import compute_latest_elo
-from mlfoot.features.rolling_form import compute_latest_form_features
-from mlfoot.simulation.tournament_simulator import simulate_tournament
+from src.data_collection.data_loader import normalize_team_name
+from src.features.elo_calculator import compute_latest_elo
+from src.features.rolling_form import compute_latest_form_features
+from src.simulation.tournament_simulator import simulate_tournament
 
 from . import config
 

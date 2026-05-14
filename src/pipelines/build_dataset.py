@@ -8,14 +8,14 @@ from pathlib import Path
 
 import pandas as pd
 
-from mlfoot.data_collection.data_loader import (
+from src.data_collection.data_loader import (
     load_fifa_rankings,
     load_international_results,
 )
-from mlfoot.features.elo_calculator import add_elo_features
-from mlfoot.features.fbref_aggregator import aggregate_national_team_stats
-from mlfoot.features.feature_builder import build_match_dataset
-from mlfoot.features.rolling_form import add_rolling_form_features
+from src.features.elo_calculator import add_elo_features
+from src.features.fbref_aggregator import aggregate_national_team_stats
+from src.features.feature_builder import build_match_dataset
+from src.features.rolling_form import add_rolling_form_features
 
 from . import config
 

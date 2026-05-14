@@ -25,4 +25,4 @@ LABEL_CLASSES = MODELS_DIR / "label_classes.json"
 WC_GROUPS = RAW_DIR / "wc2026_groups.csv"
 WC_SCHEDULE = RAW_DIR / "wc2026_schedule.csv"
 SIM_OUTPUT = PROC_DIR / "wc2026_simulation.csv"
-DEFAULT_N_SIMULATIONS = 1000
+DEFAULT_N_SIMULATIONS = 10

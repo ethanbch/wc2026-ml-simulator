@@ -41,7 +41,7 @@ Each match is represented by a feature vector built from several sources:
 ## Project Structure
 
 ```text
-mlfoot/
+src/
 ├── data_collection/ # International results loader, FBref scraper
 ├── features/ # Elo, rolling form, FBref aggregator, feature builder
 ├── models/ # Champion XGBoost, challengers LightGBM / Logistic / Poisson
@@ -52,11 +52,11 @@ mlfoot/
 extras/ # Optional utilities (scrapers, SHAP, CV helpers, etc.)
 ```
 
-mlfoot/pipelines/build_dataset.py # Full dataset pipeline (CLI entry point)
-mlfoot/pipelines/train_models.py # Train champion + challengers (CLI entry point)
-mlfoot/pipelines/evaluate.py # Evaluate on test split (CLI entry point)
-mlfoot/pipelines/simulate_wc2026.py # WC 2026 Monte Carlo simulation (CLI entry point)
-mlfoot/pipelines/full_pipeline.py # Central orchestration (build -> train -> evaluate -> simulate)
+src/pipelines/build_dataset.py # Full dataset pipeline (CLI entry point)
+src/pipelines/train_models.py # Train champion + challengers (CLI entry point)
+src/pipelines/evaluate.py # Evaluate on test split (CLI entry point)
+src/pipelines/simulate_wc2026.py # WC 2026 Monte Carlo simulation (CLI entry point)
+src/pipelines/full_pipeline.py # Central orchestration (build -> train -> evaluate -> simulate)
 
 main.py # Convenience entrypoint for the full pipeline
 Makefile # Full pipeline orchestration via make full
@@ -104,7 +104,7 @@ Loads international results, computes Elo ratings, rolling form features, and sq
 aggregates, then exports the match-level dataset:
 
 ```bash
-python -m mlfoot.pipelines.build_dataset \
+python -m src.pipelines.build_dataset \
   --international-results data/raw/international_results.csv \
   --fifa-rankings data/raw/fifa_rankings.csv \
   --squad-csv data/raw/squads.csv \
@@ -127,7 +127,7 @@ Trains the XGBoost champion (with isotonic calibration over TimeSeriesSplit)
 and all three challengers:
 
 ```bash
-python -m mlfoot.pipelines.train_models \
+python -m src.pipelines.train_models \
   --dataset data/processed/match_dataset.csv \
   --models-dir data/processed/models \
   --train-end 2022-01-01 \
@@ -146,7 +146,7 @@ make train
 Evaluates all models on the test split and exports per-model confusion matrices:
 
 ```bash
-python -m mlfoot.pipelines.evaluate \
+python -m src.pipelines.evaluate \
   --dataset data/processed/match_dataset.csv \
   --models-dir data/processed/models \
   --output data/processed/metrics.csv
@@ -161,7 +161,7 @@ make evaluate
 Runs Monte Carlo simulations of the full tournament, from group stage to final:
 
 ```bash
-python -m mlfoot.pipelines.simulate_wc2026 \
+python -m src.pipelines.simulate_wc2026 \
   --model-path data/processed/models/champion_xgboost.pkl \
   --historical-matches data/raw/international_results.csv \
   --fifa-rankings data/raw/fifa_rankings.csv \
@@ -185,7 +185,7 @@ make simulate N_SIMULATIONS=100000
 python main.py
 
 # Or
-python -m mlfoot.pipelines.full_pipeline
+python -m src.pipelines.full_pipeline
 
 # Or via Make
 make full
