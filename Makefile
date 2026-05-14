@@ -77,7 +77,7 @@ match-dataset:
 	$(PY) -m src.features.feature_builder $(MATCH_ARGS)
 
 build-dataset:
-	$(PY) build_dataset.py \
+	$(PY) -m src.pipelines.build_dataset \
 		--international-results "$(INTL_RESULTS)" \
 		--fifa-rankings "$(FIFA_RANKINGS)" \
 		--squad-csv "$(SQUAD_CSV)" \
@@ -88,17 +88,17 @@ build-dataset:
 		--form-out "$(FORM_FEATURES)"
 
 train:
-	$(PY) train_models.py \
+	$(PY) -m src.pipelines.train_models \
 		--dataset "$(MATCH_DATASET)" \
 		--models-dir "$(MODELS_DIR)"
 
 evaluate:
-	$(PY) evaluate.py \
+	$(PY) -m src.pipelines.evaluate \
 		--dataset "$(MATCH_DATASET)" \
 		--models-dir "$(MODELS_DIR)"
 
 simulate:
-	$(PY) simulate_wc2026.py \
+	$(PY) -m src.pipelines.simulate_wc2026 \
 		--model-path "$(MODELS_DIR)/champion_xgboost.pkl" \
 		--feature-columns "$(FEATURE_COLUMNS)" \
 		--label-classes "$(LABEL_CLASSES)" \
@@ -112,7 +112,8 @@ simulate:
 
 dataset: team-features match-dataset
 
-full: build-dataset train evaluate simulate
+full:
+	$(PY) -m src.pipelines.full_pipeline --n-simulations "$(N_SIMULATIONS)"
 
 clean:
 	rm -f "$(TEAM_FEATURES)" "$(MATCH_DATASET)" "$(ELO_HISTORY)" "$(FORM_FEATURES)" "$(SIM_OUTPUT)"

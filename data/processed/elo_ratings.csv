@@ -663,20 +663,20 @@ date,team,opponent,elo_before,elo_after,tournament
 2010-10-12,Wales,Switzerland,1468.88687678002,1449.395541478849,UEFA Euro qualification
 2010-10-13,Guyana,Saint Lucia,1500.0,1515.0,CFU Caribbean Cup qualification
 2010-10-13,Saint Lucia,Guyana,1500.0,1485.0,CFU Caribbean Cup qualification
-2010-10-13,Suriname,Curaçao,1500.0,1510.7980500059134,CFU Caribbean Cup qualification
-2010-10-13,Curaçao,Suriname,1500.0,1489.2019499940866,CFU Caribbean Cup qualification
+2010-10-13,Suriname,Curacao,1500.0,1510.7980500059134,CFU Caribbean Cup qualification
+2010-10-13,Curacao,Suriname,1500.0,1489.2019499940866,CFU Caribbean Cup qualification
 2010-10-14,Dominican Republic,British Virgin Islands,1500.0,1521.5961000118268,CFU Caribbean Cup qualification
 2010-10-14,British Virgin Islands,Dominican Republic,1500.0,1478.4038999881732,CFU Caribbean Cup qualification
 2010-10-15,British Virgin Islands,Dominica,1478.4038999881732,1450.2662592539043,CFU Caribbean Cup qualification
 2010-10-15,Dominica,British Virgin Islands,1500.0,1528.1376407342689,CFU Caribbean Cup qualification
-2010-10-15,Curaçao,Guyana,1489.2019499940866,1475.3136988966535,CFU Caribbean Cup qualification
-2010-10-15,Guyana,Curaçao,1515.0,1528.888251097433,CFU Caribbean Cup qualification
+2010-10-15,Curacao,Guyana,1489.2019499940866,1475.3136988966535,CFU Caribbean Cup qualification
+2010-10-15,Guyana,Curacao,1515.0,1528.888251097433,CFU Caribbean Cup qualification
 2010-10-15,Suriname,Saint Lucia,1510.7980500059134,1520.5924316225241,CFU Caribbean Cup qualification
 2010-10-15,Saint Lucia,Suriname,1485.0,1475.2056183833893,CFU Caribbean Cup qualification
 2010-10-17,Dominican Republic,Dominica,1521.5961000118268,1502.6557575466315,CFU Caribbean Cup qualification
 2010-10-17,Dominica,Dominican Republic,1528.1376407342689,1547.0779831994641,CFU Caribbean Cup qualification
-2010-10-17,Saint Lucia,Curaçao,1475.2056183833893,1475.210284594089,CFU Caribbean Cup qualification
-2010-10-17,Curaçao,Saint Lucia,1475.3136988966535,1475.3090326859538,CFU Caribbean Cup qualification
+2010-10-17,Saint Lucia,Curacao,1475.2056183833893,1475.210284594089,CFU Caribbean Cup qualification
+2010-10-17,Curacao,Saint Lucia,1475.3136988966535,1475.3090326859538,CFU Caribbean Cup qualification
 2010-10-17,Suriname,Guyana,1520.5924316225241,1492.287825380853,CFU Caribbean Cup qualification
 2010-10-17,Guyana,Suriname,1528.888251097433,1557.1928573391042,CFU Caribbean Cup qualification
 2010-10-22,Timor-Leste,Philippines,1500.0,1471.7250338335361,AFF Championship qualification
@@ -703,14 +703,14 @@ date,team,opponent,elo_before,elo_after,tournament
 2010-10-26,Cambodia,Philippines,1524.6048426855189,1525.7127748801527,AFF Championship qualification
 2010-10-26,Puerto Rico,Saint Kitts and Nevis,1514.065284915734,1498.4217932340714,CFU Caribbean Cup qualification
 2010-10-26,Saint Kitts and Nevis,Puerto Rico,1499.151337452092,1514.7948291337548,CFU Caribbean Cup qualification
-2010-10-29,Curaçao,Aruba,1475.3090326859538,1489.0740993729053,ABCS Tournament
-2010-10-29,Aruba,Curaçao,1500.0,1486.2349333130485,ABCS Tournament
+2010-10-29,Curacao,Aruba,1475.3090326859538,1489.0740993729053,ABCS Tournament
+2010-10-29,Aruba,Curacao,1500.0,1486.2349333130485,ABCS Tournament
 2010-10-29,Suriname,Bonaire,1492.287825380853,1507.6207320488,ABCS Tournament
 2010-10-29,Bonaire,Suriname,1500.0,1484.6670933320531,ABCS Tournament
 2010-10-31,Aruba,Bonaire,1486.2349333130485,1486.1898075572503,ABCS Tournament
 2010-10-31,Bonaire,Aruba,1484.6670933320531,1484.7122190878513,ABCS Tournament
-2010-10-31,Curaçao,Suriname,1489.0740993729053,1486.771711209786,ABCS Tournament
-2010-10-31,Suriname,Curaçao,1507.6207320488,1509.9231202119192,ABCS Tournament
+2010-10-31,Curacao,Suriname,1489.0740993729053,1486.771711209786,ABCS Tournament
+2010-10-31,Suriname,Curacao,1507.6207320488,1509.9231202119192,ABCS Tournament
 2010-11-02,Haiti,Guyana,1500.0,1502.4471497936863,CFU Caribbean Cup qualification
 2010-11-02,Guyana,Haiti,1557.1928573391042,1554.7457075454179,CFU Caribbean Cup qualification
 2010-11-02,Singapore,North Korea,1439.0898021101514,1429.1014859580591,VFF Cup
@@ -1619,8 +1619,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-09-02,France,Albania,1532.4696647725161,1549.8613579756957,UEFA Euro qualification
 2011-09-02,Andorra,Armenia,1391.8558325653676,1366.3011823067848,UEFA Euro qualification
 2011-09-02,Armenia,Andorra,1501.0613859224716,1526.6160361810544,UEFA Euro qualification
-2011-09-02,Antigua and Barbuda,Curaçao,1492.4038605549874,1510.9101182271347,FIFA World Cup qualification
-2011-09-02,Curaçao,Antigua and Barbuda,1486.771711209786,1468.2654535376387,FIFA World Cup qualification
+2011-09-02,Antigua and Barbuda,Curacao,1492.4038605549874,1510.9101182271347,FIFA World Cup qualification
+2011-09-02,Curacao,Antigua and Barbuda,1486.771711209786,1468.2654535376387,FIFA World Cup qualification
 2011-09-02,Australia,Thailand,1546.7468722764766,1555.3298723134615,FIFA World Cup qualification
 2011-09-02,Thailand,Australia,1487.8990636637038,1479.316063626719,FIFA World Cup qualification
 2011-09-02,Azerbaijan,Belgium,1439.481092213687,1439.6014205141887,UEFA Euro qualification
@@ -1781,8 +1781,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-09-06,El Salvador,Cayman Islands,1520.9777617592981,1553.0473824818826,FIFA World Cup qualification
 2011-09-06,Croatia,Israel,1574.5780314431913,1587.15068753238,UEFA Euro qualification
 2011-09-06,Israel,Croatia,1509.984294862922,1497.4116387737333,UEFA Euro qualification
-2011-09-06,Curaçao,Haiti,1468.2654535376387,1441.9110817641185,FIFA World Cup qualification
-2011-09-06,Haiti,Curaçao,1508.1551945379506,1534.5095663114707,FIFA World Cup qualification
+2011-09-06,Curacao,Haiti,1468.2654535376387,1441.9110817641185,FIFA World Cup qualification
+2011-09-06,Haiti,Curacao,1508.1551945379506,1534.5095663114707,FIFA World Cup qualification
 2011-09-06,Denmark,Norway,1510.950235394001,1528.7692152390782,UEFA Euro qualification
 2011-09-06,Norway,Denmark,1537.5970689995554,1519.7780891544783,UEFA Euro qualification
 2011-09-06,Dominican Republic,Suriname,1521.8827917187564,1518.492750581502,FIFA World Cup qualification
@@ -1895,8 +1895,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-10-07,Suriname,Cayman Islands,1545.3720249325618,1561.3146857871216,FIFA World Cup qualification
 2011-10-07,DR Congo,Cameroon,1513.0007830602665,1492.3628920104486,African Cup of Nations qualification
 2011-10-07,Cameroon,DR Congo,1475.6841332341544,1496.3220242839723,African Cup of Nations qualification
-2011-10-07,Curaçao,Antigua and Barbuda,1441.9110817641185,1427.2066033108892,FIFA World Cup qualification
-2011-10-07,Antigua and Barbuda,Curaçao,1548.7569476981287,1563.461426151358,FIFA World Cup qualification
+2011-10-07,Curacao,Antigua and Barbuda,1441.9110817641185,1427.2066033108892,FIFA World Cup qualification
+2011-10-07,Antigua and Barbuda,Curacao,1548.7569476981287,1563.461426151358,FIFA World Cup qualification
 2011-10-07,Cyprus,Denmark,1407.0838308561526,1382.4701148631032,UEFA Euro qualification
 2011-10-07,Denmark,Cyprus,1528.7692152390782,1553.3829312321277,UEFA Euro qualification
 2011-10-07,Czech Republic,Spain,1533.2676955302347,1514.8513569688498,UEFA Euro qualification
@@ -2019,8 +2019,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-10-11,Belgium,Germany,1552.5143129482015,1544.736834381383,UEFA Euro qualification
 2011-10-11,Guatemala,Belize,1552.5640123034173,1564.8246439361792,FIFA World Cup qualification
 2011-10-11,Belize,Guatemala,1481.9410314848806,1469.6803998521186,FIFA World Cup qualification
-2011-10-11,Haiti,Curaçao,1567.229874257782,1558.2520297207482,FIFA World Cup qualification
-2011-10-11,Curaçao,Haiti,1427.2066033108892,1436.1844478479231,FIFA World Cup qualification
+2011-10-11,Haiti,Curacao,1567.229874257782,1558.2520297207482,FIFA World Cup qualification
+2011-10-11,Curacao,Haiti,1427.2066033108892,1436.1844478479231,FIFA World Cup qualification
 2011-10-11,Hungary,Finland,1560.2325397494296,1552.6333911018908,UEFA Euro qualification
 2011-10-11,Finland,Hungary,1466.3083808065396,1473.9075294540785,UEFA Euro qualification
 2011-10-11,Indonesia,Qatar,1488.7835135044718,1470.5171347321452,FIFA World Cup qualification
@@ -2155,8 +2155,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-11-11,Chile,Uruguay,1505.3027141868665,1490.857354591794,FIFA World Cup qualification
 2011-11-11,Uzbekistan,North Korea,1578.9898183489747,1587.455230311938,FIFA World Cup qualification
 2011-11-11,North Korea,Uzbekistan,1516.7944301804807,1508.3290182175174,FIFA World Cup qualification
-2011-11-11,United States Virgin Islands,Curaçao,1420.7757199034872,1388.2579106130913,FIFA World Cup qualification
-2011-11-11,Curaçao,United States Virgin Islands,1436.1844478479231,1468.702257138319,FIFA World Cup qualification
+2011-11-11,United States Virgin Islands,Curacao,1420.7757199034872,1388.2579106130913,FIFA World Cup qualification
+2011-11-11,Curacao,United States Virgin Islands,1436.1844478479231,1468.702257138319,FIFA World Cup qualification
 2011-11-11,Belize,Saint Vincent and the Grenadines,1469.6803998521186,1464.9401181526007,FIFA World Cup qualification
 2011-11-11,Saint Vincent and the Grenadines,Belize,1455.9932361308379,1460.7335178303558,FIFA World Cup qualification
 2011-11-12,Somalia,Ethiopia,1453.9615755973653,1454.7493921326345,FIFA World Cup qualification
@@ -2181,8 +2181,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-11-15,Eswatini,DR Congo,1372.8518654872755,1361.5248725346207,FIFA World Cup qualification
 2011-11-15,Croatia,Turkey,1610.1822810913259,1602.1475639303321,UEFA Euro qualification
 2011-11-15,Turkey,Croatia,1502.4046300910052,1510.439347251999,UEFA Euro qualification
-2011-11-15,Curaçao,United States Virgin Islands,1468.702257138319,1484.3860665229658,FIFA World Cup qualification
-2011-11-15,United States Virgin Islands,Curaçao,1388.2579106130913,1372.5741012284445,FIFA World Cup qualification
+2011-11-15,Curacao,United States Virgin Islands,1468.702257138319,1484.3860665229658,FIFA World Cup qualification
+2011-11-15,United States Virgin Islands,Curacao,1388.2579106130913,1372.5741012284445,FIFA World Cup qualification
 2011-11-15,Ecuador,Peru,1485.5933071075874,1504.1284002850152,FIFA World Cup qualification
 2011-11-15,Peru,Ecuador,1523.7230688417499,1505.187975664322,FIFA World Cup qualification
 2011-11-15,El Salvador,Suriname,1608.840489871043,1622.2266674206342,FIFA World Cup qualification
@@ -2283,8 +2283,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-12-01,Zanzibar,Somalia,1504.948134388257,1517.6132053908138,CECAFA Cup
 2011-12-02,Bangladesh,Pakistan,1484.95799990027,1483.4823081529314,SAFF Cup
 2011-12-02,Pakistan,Bangladesh,1433.3101087483212,1434.7858004956597,SAFF Cup
-2011-12-02,Curaçao,Bonaire,1484.3860665229658,1469.400147656966,ABCS Tournament
-2011-12-02,Bonaire,Curaçao,1484.7122190878513,1499.698137953851,ABCS Tournament
+2011-12-02,Curacao,Bonaire,1484.3860665229658,1469.400147656966,ABCS Tournament
+2011-12-02,Bonaire,Curacao,1484.7122190878513,1499.698137953851,ABCS Tournament
 2011-12-02,Ethiopia,Malawi,1478.0482359809957,1479.9530437194794,CECAFA Cup
 2011-12-02,Malawi,Ethiopia,1545.0463232767738,1543.1415155382902,CECAFA Cup
 2011-12-02,Maldives,Nepal,1477.5308129712882,1477.8279524520924,SAFF Cup
@@ -2307,8 +2307,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2011-12-04,Aruba,Bonaire,1485.948557884059,1486.3440961426284,ABCS Tournament
 2011-12-04,Maldives,Pakistan,1477.8279524520924,1476.5953988551885,SAFF Cup
 2011-12-04,Pakistan,Maldives,1434.7858004956597,1436.0183540925636,SAFF Cup
-2011-12-04,Suriname,Curaçao,1487.2731864381096,1497.3708587909732,ABCS Tournament
-2011-12-04,Curaçao,Suriname,1469.400147656966,1459.3024753041025,ABCS Tournament
+2011-12-04,Suriname,Curacao,1487.2731864381096,1497.3708587909732,ABCS Tournament
+2011-12-04,Curacao,Suriname,1469.400147656966,1459.3024753041025,ABCS Tournament
 2011-12-05,Burundi,Sudan,1485.3743258483257,1472.3128955494276,CECAFA Cup
 2011-12-05,Sudan,Burundi,1530.528725195883,1543.5901554947811,CECAFA Cup
 2011-12-05,India,Bhutan,1478.1105160400914,1490.342514013551,SAFF Cup
@@ -2833,14 +2833,14 @@ date,team,opponent,elo_before,elo_after,tournament
 2012-07-03,Libya,Saudi Arabia,1586.8011325204632,1603.5406399934122,Arab Cup
 2012-07-05,Saudi Arabia,Iraq,1510.5348332314995,1500.6355738916404,Arab Cup
 2012-07-05,Iraq,Saudi Arabia,1614.035040667194,1623.934300007053,Arab Cup
-2012-07-13,Aruba,Curaçao,1486.3440961426284,1492.8422410374515,ABCS Tournament
-2012-07-13,Curaçao,Aruba,1459.3024753041025,1452.8043304092794,ABCS Tournament
+2012-07-13,Aruba,Curacao,1486.3440961426284,1492.8422410374515,ABCS Tournament
+2012-07-13,Curacao,Aruba,1459.3024753041025,1452.8043304092794,ABCS Tournament
 2012-07-13,Suriname,Bonaire,1497.3708587909732,1517.4820575903695,ABCS Tournament
 2012-07-13,Bonaire,Suriname,1499.3025996952817,1479.1914008958852,ABCS Tournament
 2012-07-15,Aruba,Suriname,1492.8422410374515,1500.7065882975014,ABCS Tournament
 2012-07-15,Suriname,Aruba,1517.4820575903695,1509.6177103303196,ABCS Tournament
-2012-07-15,Bonaire,Curaçao,1479.1914008958852,1457.675352809054,ABCS Tournament
-2012-07-15,Curaçao,Bonaire,1452.8043304092794,1474.3203784961106,ABCS Tournament
+2012-07-15,Bonaire,Curacao,1479.1914008958852,1457.675352809054,ABCS Tournament
+2012-07-15,Curacao,Bonaire,1452.8043304092794,1474.3203784961106,ABCS Tournament
 2012-07-18,Guam,Northern Mariana Islands,1465.6957763653043,1477.8927884835832,EAFF Championship
 2012-07-18,Northern Mariana Islands,Guam,1500.0,1487.802987881721,EAFF Championship
 2012-07-20,Northern Mariana Islands,Macau,1487.802987881721,1463.5889405945331,EAFF Championship
@@ -3333,10 +3333,10 @@ date,team,opponent,elo_before,elo_after,tournament
 2012-10-16,Ecuador,Venezuela,1533.9744864248414,1537.2064111959555,FIFA World Cup qualification
 2012-10-17,Poland,England,1534.4760202934413,1534.0729355518622,FIFA World Cup qualification
 2012-10-17,England,Poland,1625.1373731011204,1625.5404578426994,FIFA World Cup qualification
-2012-10-21,Saint Lucia,Curaçao,1386.5731312889372,1414.0684594246402,CFU Caribbean Cup qualification
-2012-10-21,Curaçao,Saint Lucia,1474.3203784961106,1446.8250503604077,CFU Caribbean Cup qualification
-2012-10-23,Curaçao,Guyana,1446.8250503604077,1432.318105722158,CFU Caribbean Cup qualification
-2012-10-23,Guyana,Curaçao,1458.249497987972,1472.7564426262218,CFU Caribbean Cup qualification
+2012-10-21,Saint Lucia,Curacao,1386.5731312889372,1414.0684594246402,CFU Caribbean Cup qualification
+2012-10-21,Curacao,Saint Lucia,1474.3203784961106,1446.8250503604077,CFU Caribbean Cup qualification
+2012-10-23,Curacao,Guyana,1446.8250503604077,1432.318105722158,CFU Caribbean Cup qualification
+2012-10-23,Guyana,Curacao,1458.249497987972,1472.7564426262218,CFU Caribbean Cup qualification
 2012-10-23,Guadeloupe,Dominican Republic,1580.7223011818269,1551.1797651296472,CFU Caribbean Cup qualification
 2012-10-23,Dominican Republic,Guadeloupe,1568.1984884037226,1597.7410244559023,CFU Caribbean Cup qualification
 2012-10-23,Martinique,Puerto Rico,1542.8228844328416,1557.5593536837362,CFU Caribbean Cup qualification
@@ -3347,8 +3347,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2012-10-25,Martinique,Dominican Republic,1557.5593536837362,1559.2864425398263,CFU Caribbean Cup qualification
 2012-10-25,Guadeloupe,Puerto Rico,1551.1797651296472,1568.094765907822,CFU Caribbean Cup qualification
 2012-10-25,Puerto Rico,Guadeloupe,1521.9817897048292,1505.0667889266545,CFU Caribbean Cup qualification
-2012-10-25,Saint Vincent and the Grenadines,Curaçao,1432.1824775607615,1460.6936030832023,CFU Caribbean Cup qualification
-2012-10-25,Curaçao,Saint Vincent and the Grenadines,1432.318105722158,1403.8069801997171,CFU Caribbean Cup qualification
+2012-10-25,Saint Vincent and the Grenadines,Curacao,1432.1824775607615,1460.6936030832023,CFU Caribbean Cup qualification
+2012-10-25,Curacao,Saint Vincent and the Grenadines,1432.318105722158,1403.8069801997171,CFU Caribbean Cup qualification
 2012-10-26,Vietnam,Laos,1496.1040040893017,1507.7046029765647,VFF Cup
 2012-10-26,Laos,Vietnam,1453.2585383940132,1441.6579395067502,VFF Cup
 2012-10-27,Guadeloupe,Martinique,1568.094765907822,1563.5449174260407,CFU Caribbean Cup qualification
@@ -4675,8 +4675,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2013-11-13,New Zealand,Mexico,1634.9453148995397,1613.106909938506,FIFA World Cup qualification
 2013-11-14,Bonaire,Suriname,1457.675352809054,1444.435320171352,ABCS Tournament
 2013-11-14,Suriname,Bonaire,1498.628997966122,1511.8690306038238,ABCS Tournament
-2013-11-14,Curaçao,Aruba,1403.8069801997171,1417.360016907651,ABCS Tournament
-2013-11-14,Aruba,Curaçao,1470.1873367911048,1456.634300083171,ABCS Tournament
+2013-11-14,Curacao,Aruba,1403.8069801997171,1417.360016907651,ABCS Tournament
+2013-11-14,Aruba,Curacao,1470.1873367911048,1456.634300083171,ABCS Tournament
 2013-11-15,Bahrain,Malaysia,1500.5910322894658,1509.6629355622504,AFC Asian Cup qualification
 2013-11-15,Malaysia,Bahrain,1455.3785031274658,1446.3065998546813,AFC Asian Cup qualification
 2013-11-15,China PR,Indonesia,1601.1440845928619,1605.633307048634,AFC Asian Cup qualification
@@ -4705,8 +4705,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2013-11-15,Qatar,Yemen,1498.372215102222,1514.7345524919208,AFC Asian Cup qualification
 2013-11-16,Aruba,Bonaire,1456.634300083171,1446.2833294326038,ABCS Tournament
 2013-11-16,Bonaire,Aruba,1444.435320171352,1454.7862908219192,ABCS Tournament
-2013-11-16,Curaçao,Suriname,1417.360016907651,1402.1229717082847,ABCS Tournament
-2013-11-16,Suriname,Curaçao,1511.8690306038238,1527.1060758031902,ABCS Tournament
+2013-11-16,Curacao,Suriname,1417.360016907651,1402.1229717082847,ABCS Tournament
+2013-11-16,Suriname,Curacao,1511.8690306038238,1527.1060758031902,ABCS Tournament
 2013-11-16,Nigeria,Ethiopia,1639.768763503366,1647.5014378957912,FIFA World Cup qualification
 2013-11-16,Ethiopia,Nigeria,1466.569361672542,1458.8366872801168,FIFA World Cup qualification
 2013-11-16,Senegal,Ivory Coast,1575.2591039218337,1581.7239821601913,FIFA World Cup qualification
@@ -5197,10 +5197,10 @@ date,team,opponent,elo_before,elo_after,tournament
 2014-09-03,French Guiana,Grenada,1587.0544539497828,1580.4436720203523,CFU Caribbean Cup qualification
 2014-09-03,Guyana,Dominica,1482.0019900835719,1478.267480301016,CFU Caribbean Cup qualification
 2014-09-03,Dominica,Guyana,1393.6450945596607,1397.3796043422167,CFU Caribbean Cup qualification
-2014-09-03,Puerto Rico,Curaçao,1488.3256067359291,1480.9770438563576,CFU Caribbean Cup qualification
-2014-09-03,Curaçao,Puerto Rico,1402.1229717082847,1409.4715345878562,CFU Caribbean Cup qualification
-2014-09-05,Curaçao,Grenada,1409.4715345878562,1425.3260519497098,CFU Caribbean Cup qualification
-2014-09-05,Grenada,Curaçao,1429.2856369529547,1413.4311195911012,CFU Caribbean Cup qualification
+2014-09-03,Puerto Rico,Curacao,1488.3256067359291,1480.9770438563576,CFU Caribbean Cup qualification
+2014-09-03,Curacao,Puerto Rico,1402.1229717082847,1409.4715345878562,CFU Caribbean Cup qualification
+2014-09-05,Curacao,Grenada,1409.4715345878562,1425.3260519497098,CFU Caribbean Cup qualification
+2014-09-05,Grenada,Curacao,1429.2856369529547,1413.4311195911012,CFU Caribbean Cup qualification
 2014-09-05,Guinea,Togo,1567.2174656919149,1577.2888654730402,African Cup of Nations qualification
 2014-09-05,Togo,Guinea,1448.66268188669,1438.5912821055647,African Cup of Nations qualification
 2014-09-05,Japan,Uruguay,1580.093165676826,1561.8415745261725,Kirin Challenge Cup
@@ -5249,8 +5249,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2014-09-07,Saint Lucia,Dominica,1469.0840994627042,1480.3831988378938,CFU Caribbean Cup qualification
 2014-09-07,Faroe Islands,Finland,1289.6839485463786,1273.7303381333245,UEFA Euro qualification
 2014-09-07,Finland,Faroe Islands,1493.7772188233641,1509.7308292364182,UEFA Euro qualification
-2014-09-07,French Guiana,Curaçao,1595.4666995154862,1588.6569757028296,CFU Caribbean Cup qualification
-2014-09-07,Curaçao,French Guiana,1425.3260519497098,1432.1357757623664,CFU Caribbean Cup qualification
+2014-09-07,French Guiana,Curacao,1595.4666995154862,1588.6569757028296,CFU Caribbean Cup qualification
+2014-09-07,Curacao,French Guiana,1425.3260519497098,1432.1357757623664,CFU Caribbean Cup qualification
 2014-09-07,Georgia,Republic of Ireland,1429.1037487986891,1415.4219360188824,UEFA Euro qualification
 2014-09-07,Republic of Ireland,Georgia,1559.7150560896937,1573.3968688695004,UEFA Euro qualification
 2014-09-07,Germany,Scotland,1912.432869314756,1913.9383574100334,UEFA Euro qualification
@@ -5331,8 +5331,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2014-09-10,Guinea,Uganda,1577.2888654730402,1563.9712371398348,African Cup of Nations qualification
 2014-10-08,Antigua and Barbuda,Saint Lucia,1485.418022392965,1500.2006668014697,CFU Caribbean Cup qualification
 2014-10-08,Saint Lucia,Antigua and Barbuda,1480.3831988378938,1465.6005544293891,CFU Caribbean Cup qualification
-2014-10-08,Curaçao,Martinique,1432.1357757623664,1437.6029795770653,CFU Caribbean Cup qualification
-2014-10-08,Martinique,Curaçao,1564.8710583996412,1559.4038545849423,CFU Caribbean Cup qualification
+2014-10-08,Curacao,Martinique,1432.1357757623664,1437.6029795770653,CFU Caribbean Cup qualification
+2014-10-08,Martinique,Curacao,1564.8710583996412,1559.4038545849423,CFU Caribbean Cup qualification
 2014-10-08,Haiti,French Guiana,1593.4324726293185,1589.0412675974335,CFU Caribbean Cup qualification
 2014-10-08,French Guiana,Haiti,1588.6569757028296,1593.0481807347146,CFU Caribbean Cup qualification
 2014-10-08,Saint Kitts and Nevis,Barbados,1491.5658040659641,1475.4735911783132,CFU Caribbean Cup qualification
@@ -5379,8 +5379,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2014-10-10,Kazakhstan,Netherlands,1347.2005902975611,1345.7396443071993,UEFA Euro qualification
 2014-10-10,Senegal,Tunisia,1623.0023465290603,1618.0366399685884,African Cup of Nations qualification
 2014-10-10,Tunisia,Senegal,1603.4831918567752,1608.4488984172472,African Cup of Nations qualification
-2014-10-10,Saint Vincent and the Grenadines,Curaçao,1465.3239928357336,1479.1297136905323,CFU Caribbean Cup qualification
-2014-10-10,Curaçao,Saint Vincent and the Grenadines,1437.6029795770653,1423.7972587222666,CFU Caribbean Cup qualification
+2014-10-10,Saint Vincent and the Grenadines,Curacao,1465.3239928357336,1479.1297136905323,CFU Caribbean Cup qualification
+2014-10-10,Curacao,Saint Vincent and the Grenadines,1437.6029795770653,1423.7972587222666,CFU Caribbean Cup qualification
 2014-10-10,Trinidad and Tobago,Saint Lucia,1624.599362846428,1632.8696488030428,CFU Caribbean Cup qualification
 2014-10-10,Saint Lucia,Trinidad and Tobago,1465.6005544293891,1457.3302684727744,CFU Caribbean Cup qualification
 2014-10-10,Turkey,Czech Republic,1520.3813780466999,1504.4097199232076,UEFA Euro qualification
@@ -5437,8 +5437,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2014-10-12,Brunei,Timor-Leste,1483.3747651574563,1457.9203255539785,AFF Championship qualification
 2014-10-12,Estonia,England,1401.491413886121,1392.668076884051,UEFA Euro qualification
 2014-10-12,England,Estonia,1653.581277172327,1662.404614174397,UEFA Euro qualification
-2014-10-12,Guadeloupe,Curaçao,1563.5449174260407,1539.5747130271156,CFU Caribbean Cup qualification
-2014-10-12,Curaçao,Guadeloupe,1423.7972587222666,1447.7674631211917,CFU Caribbean Cup qualification
+2014-10-12,Guadeloupe,Curacao,1563.5449174260407,1539.5747130271156,CFU Caribbean Cup qualification
+2014-10-12,Curacao,Guadeloupe,1423.7972587222666,1447.7674631211917,CFU Caribbean Cup qualification
 2014-10-12,Haiti,Saint Kitts and Nevis,1589.0412675974335,1581.450058312097,CFU Caribbean Cup qualification
 2014-10-12,Saint Kitts and Nevis,Haiti,1495.3644067963423,1502.9556160816787,CFU Caribbean Cup qualification
 2014-10-12,Laos,Cambodia,1410.443138949434,1419.1749732905491,AFF Championship qualification
@@ -5539,12 +5539,12 @@ date,team,opponent,elo_before,elo_after,tournament
 2014-10-20,Myanmar,Laos,1475.3267572989714,1493.675218044247,AFF Championship qualification
 2014-11-11,Cuba,French Guiana,1494.7041484656534,1497.3776679677135,CFU Caribbean Cup
 2014-11-11,French Guiana,Cuba,1589.9048842840332,1587.231364781973,CFU Caribbean Cup
-2014-11-11,Curaçao,Trinidad and Tobago,1447.7674631211917,1442.7778648330366,CFU Caribbean Cup
-2014-11-11,Trinidad and Tobago,Curaçao,1639.0981563388154,1644.0877546269705,CFU Caribbean Cup
+2014-11-11,Curacao,Trinidad and Tobago,1447.7674631211917,1442.7778648330366,CFU Caribbean Cup
+2014-11-11,Trinidad and Tobago,Curacao,1639.0981563388154,1644.0877546269705,CFU Caribbean Cup
 2014-11-12,Haiti,Antigua and Barbuda,1581.450058312097,1578.984131396783,CFU Caribbean Cup
 2014-11-12,Antigua and Barbuda,Haiti,1493.972159265697,1496.4380861810112,CFU Caribbean Cup
-2014-11-13,Curaçao,Cuba,1442.7778648330366,1434.3365631594859,CFU Caribbean Cup
-2014-11-13,Cuba,Curaçao,1497.3776679677135,1505.8189696412642,CFU Caribbean Cup
+2014-11-13,Curacao,Cuba,1442.7778648330366,1434.3365631594859,CFU Caribbean Cup
+2014-11-13,Cuba,Curacao,1497.3776679677135,1505.8189696412642,CFU Caribbean Cup
 2014-11-13,North Korea,Hong Kong,1634.268233700169,1637.9703161363545,EAFF Championship
 2014-11-13,Hong Kong,North Korea,1376.7938210632033,1373.0917386270178,EAFF Championship
 2014-11-13,Saudi Arabia,Qatar,1537.1701120127334,1535.2115041753489,Gulf Cup
@@ -5595,8 +5595,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2014-11-15,Senegal,Egypt,1606.854263171163,1626.8987923818659,African Cup of Nations qualification
 2014-11-15,England,Slovenia,1662.404614174397,1672.073251065497,UEFA Euro qualification
 2014-11-15,Slovenia,England,1537.2865571015916,1527.6179202104915,UEFA Euro qualification
-2014-11-15,French Guiana,Curaçao,1574.6643725090757,1585.457016196357,CFU Caribbean Cup
-2014-11-15,Curaçao,French Guiana,1434.3365631594859,1423.5439194722046,CFU Caribbean Cup
+2014-11-15,French Guiana,Curacao,1574.6643725090757,1585.457016196357,CFU Caribbean Cup
+2014-11-15,Curacao,French Guiana,1434.3365631594859,1423.5439194722046,CFU Caribbean Cup
 2014-11-15,Lesotho,Burkina Faso,1461.9351091409847,1448.204169061608,African Cup of Nations qualification
 2014-11-15,Burkina Faso,Lesotho,1591.3999838535656,1605.1309239329423,African Cup of Nations qualification
 2014-11-15,Luxembourg,Ukraine,1311.2572636434816,1296.9223810289716,UEFA Euro qualification
@@ -5847,8 +5847,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-01-28,Ivory Coast,Cameroon,1658.0424033485951,1666.9445394810302,African Cup of Nations
 2015-01-28,Guinea,Mali,1611.3331974415878,1610.385559487023,African Cup of Nations
 2015-01-28,Mali,Guinea,1578.309792833118,1579.2574307876828,African Cup of Nations
-2015-01-30,Curaçao,Aruba,1423.5439194722046,1424.2317215095097,ABCS Tournament
-2015-01-30,Aruba,Curaçao,1447.478399972347,1446.790597935042,ABCS Tournament
+2015-01-30,Curacao,Aruba,1423.5439194722046,1424.2317215095097,ABCS Tournament
+2015-01-30,Aruba,Curacao,1447.478399972347,1446.790597935042,ABCS Tournament
 2015-01-30,Iraq,United Arab Emirates,1564.0395771475198,1556.1890870843386,AFC Asian Cup
 2015-01-30,United Arab Emirates,Iraq,1639.904374085043,1647.7548641482242,AFC Asian Cup
 2015-01-30,Suriname,Bonaire,1509.4908998521094,1519.6321810620384,ABCS Tournament
@@ -5859,8 +5859,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-01-31,DR Congo,Congo,1556.367186451543,1571.2970247759893,African Cup of Nations
 2015-01-31,Equatorial Guinea,Tunisia,1463.2563204777975,1475.2411921647158,African Cup of Nations
 2015-01-31,Tunisia,Equatorial Guinea,1633.1454842463245,1621.1606125594062,African Cup of Nations
-2015-02-01,Curaçao,Bonaire,1424.2317215095097,1442.7060355616688,ABCS Tournament
-2015-02-01,Bonaire,Curaçao,1443.5952522593147,1425.1209382071556,ABCS Tournament
+2015-02-01,Curacao,Bonaire,1424.2317215095097,1442.7060355616688,ABCS Tournament
+2015-02-01,Bonaire,Curacao,1443.5952522593147,1425.1209382071556,ABCS Tournament
 2015-02-01,Ghana,Guinea,1680.9694542378625,1694.9623278500044,African Cup of Nations
 2015-02-01,Guinea,Ghana,1610.385559487023,1596.3926858748812,African Cup of Nations
 2015-02-01,Ivory Coast,Algeria,1666.9445394810302,1681.4044313295017,African Cup of Nations
@@ -5915,8 +5915,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-03-26,British Virgin Islands,Dominica,1308.214273005579,1299.7435382227125,FIFA World Cup qualification
 2015-03-26,Turks and Caicos Islands,Saint Kitts and Nevis,1416.6663175830233,1388.3147865283904,FIFA World Cup qualification
 2015-03-26,Saint Kitts and Nevis,Turks and Caicos Islands,1518.4762776391806,1546.8278086938135,FIFA World Cup qualification
-2015-03-27,Curaçao,Montserrat,1442.7060355616688,1452.2384758430371,FIFA World Cup qualification
-2015-03-27,Montserrat,Curaçao,1409.9612463543244,1400.4288060729561,FIFA World Cup qualification
+2015-03-27,Curacao,Montserrat,1442.7060355616688,1452.2384758430371,FIFA World Cup qualification
+2015-03-27,Montserrat,Curacao,1409.9612463543244,1400.4288060729561,FIFA World Cup qualification
 2015-03-27,England,Lithuania,1672.073251065497,1678.491612873797,UEFA Euro qualification
 2015-03-27,Lithuania,England,1413.4457727522567,1407.0274109439567,UEFA Euro qualification
 2015-03-27,Japan,Tunisia,1606.9053024588768,1618.2767765373064,Kirin Challenge Cup
@@ -5983,8 +5983,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-03-29,Belize,Cayman Islands,1452.6995163559916,1455.8035192035431,FIFA World Cup qualification
 2015-03-31,Israel,Belgium,1531.015221116414,1519.0433190462513,UEFA Euro qualification
 2015-03-31,Belgium,Israel,1702.1299222590603,1714.101824329223,UEFA Euro qualification
-2015-03-31,Montserrat,Curaçao,1400.4288060729561,1398.3615025732618,FIFA World Cup qualification
-2015-03-31,Curaçao,Montserrat,1452.2384758430371,1454.3057793427315,FIFA World Cup qualification
+2015-03-31,Montserrat,Curacao,1400.4288060729561,1398.3615025732618,FIFA World Cup qualification
+2015-03-31,Curacao,Montserrat,1452.2384758430371,1454.3057793427315,FIFA World Cup qualification
 2015-05-14,Grenada,Dominica,1419.623300142655,1408.2503487776844,Windward Islands Tournament
 2015-05-14,Dominica,Grenada,1371.6189259182631,1382.9918772832336,Windward Islands Tournament
 2015-05-14,Saint Lucia,Saint Vincent and the Grenadines,1447.3931634734502,1435.4532815884168,Windward Islands Tournament
@@ -6049,8 +6049,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-05-31,Felvidék,Ellan Vannin,1505.4562034243709,1496.5866433963106,Niamh Challenge Cup
 2015-06-07,Nicaragua,Suriname,1494.986336840481,1507.0062795020822,FIFA World Cup qualification
 2015-06-07,Suriname,Nicaragua,1525.0308662822085,1513.0109236206074,FIFA World Cup qualification
-2015-06-10,Curaçao,Cuba,1454.3057793427315,1451.9104083989896,FIFA World Cup qualification
-2015-06-10,Cuba,Curaçao,1498.3443293732873,1500.7397003170292,FIFA World Cup qualification
+2015-06-10,Curacao,Cuba,1454.3057793427315,1451.9104083989896,FIFA World Cup qualification
+2015-06-10,Cuba,Curacao,1498.3443293732873,1500.7397003170292,FIFA World Cup qualification
 2015-06-10,Antigua and Barbuda,Saint Lucia,1483.4316713972114,1450.8151867536592,FIFA World Cup qualification
 2015-06-10,Saint Lucia,Antigua and Barbuda,1415.1943895700642,1447.8108742136164,FIFA World Cup qualification
 2015-06-10,Aruba,Barbados,1441.3919127148718,1414.5512302655977,FIFA World Cup qualification
@@ -6179,8 +6179,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-06-14,Kenya,Congo,1537.4756428007315,1541.7703787630996,African Cup of Nations qualification
 2015-06-14,DR Congo,Madagascar,1560.973892777283,1567.3325508056107,African Cup of Nations qualification
 2015-06-14,Madagascar,DR Congo,1432.8512303556913,1426.4925723273636,African Cup of Nations qualification
-2015-06-14,Cuba,Curaçao,1500.7397003170292,1494.6803884517099,FIFA World Cup qualification
-2015-06-14,Curaçao,Cuba,1451.9104083989896,1457.969720264309,FIFA World Cup qualification
+2015-06-14,Cuba,Curacao,1500.7397003170292,1494.6803884517099,FIFA World Cup qualification
+2015-06-14,Curacao,Cuba,1451.9104083989896,1457.969720264309,FIFA World Cup qualification
 2015-06-14,Egypt,Tanzania,1597.88879353537,1607.108128863851,African Cup of Nations qualification
 2015-06-14,Tanzania,Egypt,1429.2510694717423,1420.0317341432615,African Cup of Nations qualification
 2015-06-14,Equatorial Guinea,Benin,1463.4674216831706,1460.7999227473426,African Cup of Nations qualification
@@ -6537,8 +6537,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-09-03,Yemen,Uzbekistan,1343.9641857140168,1340.9530232938762,FIFA World Cup qualification
 2015-09-04,American Samoa,Cook Islands,1441.006246676026,1466.8381221406698,FIFA World Cup qualification
 2015-09-04,Cook Islands,American Samoa,1492.8367730566692,1467.0048975920254,FIFA World Cup qualification
-2015-09-04,Curaçao,El Salvador,1457.969720264309,1443.7882917698992,FIFA World Cup qualification
-2015-09-04,El Salvador,Curaçao,1576.9486332678982,1591.130061762308,FIFA World Cup qualification
+2015-09-04,Curacao,El Salvador,1457.969720264309,1443.7882917698992,FIFA World Cup qualification
+2015-09-04,El Salvador,Curacao,1576.9486332678982,1591.130061762308,FIFA World Cup qualification
 2015-09-04,Denmark,Albania,1595.8597179891324,1588.2307326418686,UEFA Euro qualification
 2015-09-04,Albania,Denmark,1501.0045953121094,1508.6335806593731,UEFA Euro qualification
 2015-09-04,Djibouti,Togo,1394.5904289270582,1369.1775710280504,African Cup of Nations qualification
@@ -6679,8 +6679,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2015-09-08,Syria,Cambodia,1525.216540694746,1547.7125801043487,FIFA World Cup qualification
 2015-09-08,China PR,Maldives,1595.1856185733252,1603.8460397008248,FIFA World Cup qualification
 2015-09-08,Maldives,China PR,1413.4546734570522,1404.7942523295526,FIFA World Cup qualification
-2015-09-08,El Salvador,Curaçao,1591.130061762308,1596.9519942065642,FIFA World Cup qualification
-2015-09-08,Curaçao,El Salvador,1443.7882917698992,1437.966359325643,FIFA World Cup qualification
+2015-09-08,El Salvador,Curacao,1591.130061762308,1596.9519942065642,FIFA World Cup qualification
+2015-09-08,Curacao,El Salvador,1443.7882917698992,1437.966359325643,FIFA World Cup qualification
 2015-09-08,England,Switzerland,1696.267767160507,1707.6802572845984,UEFA Euro qualification
 2015-09-08,Switzerland,England,1608.7488101935069,1597.3363200694155,UEFA Euro qualification
 2015-09-08,Guam,Oman,1440.0408437347567,1441.9518016392901,FIFA World Cup qualification
@@ -7249,8 +7249,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2016-03-22,Bermuda,Cuba,1585.8148241159488,1570.2202406038336,CFU Caribbean Cup qualification
 2016-03-23,Antigua and Barbuda,Aruba,1472.9586806872967,1482.9715669295213,CFU Caribbean Cup qualification
 2016-03-23,Aruba,Antigua and Barbuda,1452.8823598191123,1442.8694735768877,CFU Caribbean Cup qualification
-2016-03-23,Barbados,Curaçao,1461.2679146150517,1471.157332878423,CFU Caribbean Cup qualification
-2016-03-23,Curaçao,Barbados,1437.966359325643,1428.0769410622718,CFU Caribbean Cup qualification
+2016-03-23,Barbados,Curacao,1461.2679146150517,1471.157332878423,CFU Caribbean Cup qualification
+2016-03-23,Curacao,Barbados,1437.966359325643,1428.0769410622718,CFU Caribbean Cup qualification
 2016-03-23,Guadeloupe,Suriname,1539.5747130271156,1533.268343927485,CFU Caribbean Cup qualification
 2016-03-23,Suriname,Guadeloupe,1483.8514136161782,1490.157782715809,CFU Caribbean Cup qualification
 2016-03-23,Guinea-Bissau,Kenya,1371.939291098337,1389.7141590358945,African Cup of Nations qualification
@@ -7359,8 +7359,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2016-03-26,Angola,DR Congo,1484.3316222302096,1476.7473088437225,African Cup of Nations qualification
 2016-03-26,Zimbabwe,Eswatini,1474.418069468931,1491.9729438494055,African Cup of Nations qualification
 2016-03-26,Eswatini,Zimbabwe,1433.7798225081563,1416.2249481276817,African Cup of Nations qualification
-2016-03-26,Curaçao,Dominican Republic,1428.0769410622718,1443.6060758212375,CFU Caribbean Cup qualification
-2016-03-26,Dominican Republic,Curaçao,1540.338044860587,1524.8089101016212,CFU Caribbean Cup qualification
+2016-03-26,Curacao,Dominican Republic,1428.0769410622718,1443.6060758212375,CFU Caribbean Cup qualification
+2016-03-26,Dominican Republic,Curacao,1540.338044860587,1524.8089101016212,CFU Caribbean Cup qualification
 2016-03-26,Mauritius,Rwanda,1388.2344658258946,1401.8468263622174,African Cup of Nations qualification
 2016-03-26,Rwanda,Mauritius,1456.0012828618537,1442.388922325531,African Cup of Nations qualification
 2016-03-26,Senegal,Niger,1660.2216008475907,1666.1227490500005,African Cup of Nations qualification
@@ -7519,8 +7519,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2016-05-31,Raetia,Northern Cyprus,1409.3681381547544,1397.1801198345236,CONIFA World Football Cup
 2016-05-31,Somaliland,Panjab,1477.9574800236962,1459.0990273596415,CONIFA World Football Cup
 2016-05-31,Panjab,Somaliland,1497.8097655673291,1516.668218231384,CONIFA World Football Cup
-2016-06-01,Curaçao,Guyana,1443.6060758212375,1463.380033378305,CFU Caribbean Cup qualification
-2016-06-01,Guyana,Curaçao,1456.0861191629754,1436.312161605908,CFU Caribbean Cup qualification
+2016-06-01,Curacao,Guyana,1443.6060758212375,1463.380033378305,CFU Caribbean Cup qualification
+2016-06-01,Guyana,Curacao,1456.0861191629754,1436.312161605908,CFU Caribbean Cup qualification
 2016-06-01,Grenada,Puerto Rico,1428.541087014797,1426.3515793543233,CFU Caribbean Cup qualification
 2016-06-01,Puerto Rico,Grenada,1477.4620403090028,1479.6515479694765,CFU Caribbean Cup qualification
 2016-06-01,Latvia,Lithuania,1383.4158265446085,1390.943032646571,Baltic Cup
@@ -7671,8 +7671,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2016-06-07,Taiwan,Cambodia,1333.8573428977384,1313.992866585561,AFC Asian Cup qualification
 2016-06-07,Colombia,Paraguay,1694.4552485080796,1698.6822928415288,Copa América
 2016-06-07,Paraguay,Colombia,1465.704736554984,1461.4776922215349,Copa América
-2016-06-07,Curaçao,United States Virgin Islands,1463.380033378305,1475.2124361336998,CFU Caribbean Cup qualification
-2016-06-07,United States Virgin Islands,Curaçao,1319.507217803399,1307.6748150480041,CFU Caribbean Cup qualification
+2016-06-07,Curacao,United States Virgin Islands,1463.380033378305,1475.2124361336998,CFU Caribbean Cup qualification
+2016-06-07,United States Virgin Islands,Curacao,1319.507217803399,1307.6748150480041,CFU Caribbean Cup qualification
 2016-06-07,Dominican Republic,French Guiana,1537.960083271164,1550.2884596628899,CFU Caribbean Cup qualification
 2016-06-07,French Guiana,Dominican Republic,1575.4118561986047,1563.0834798068788,CFU Caribbean Cup qualification
 2016-06-07,India,Laos,1481.1221554129804,1490.6239100363796,AFC Asian Cup qualification
@@ -8081,8 +8081,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2016-09-06,Argentina,Venezuela,1773.8789261995598,1764.7062853124546,FIFA World Cup qualification
 2016-09-06,Guatemala,Saint Vincent and the Grenadines,1602.1045416730408,1611.0352050181968,FIFA World Cup qualification
 2016-09-06,Saint Vincent and the Grenadines,Guatemala,1399.1939422708258,1390.2632789256697,FIFA World Cup qualification
-2016-10-05,Curaçao,Antigua and Barbuda,1475.2124361336998,1494.0711949820031,CFU Caribbean Cup qualification
-2016-10-05,Antigua and Barbuda,Curaçao,1474.6688749092784,1455.8101160609751,CFU Caribbean Cup qualification
+2016-10-05,Curacao,Antigua and Barbuda,1475.2124361336998,1494.0711949820031,CFU Caribbean Cup qualification
+2016-10-05,Antigua and Barbuda,Curacao,1474.6688749092784,1455.8101160609751,CFU Caribbean Cup qualification
 2016-10-05,Trinidad and Tobago,Dominican Republic,1658.483942611815,1671.6935551817699,CFU Caribbean Cup qualification
 2016-10-05,Dominican Republic,Trinidad and Tobago,1550.2884596628899,1537.0788470929351,CFU Caribbean Cup qualification
 2016-10-06,Austria,Wales,1655.3445388214113,1648.240843549213,FIFA World Cup qualification
@@ -8257,8 +8257,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2016-10-11,San Marino,Norway,1133.0023253076845,1129.2227190536514,FIFA World Cup qualification
 2016-10-11,Poland,Armenia,1646.0691565685945,1649.8565190090426,FIFA World Cup qualification
 2016-10-11,Armenia,Poland,1409.9996147064458,1406.2122522659977,FIFA World Cup qualification
-2016-10-11,Puerto Rico,Curaçao,1479.6515479694765,1451.718779964366,CFU Caribbean Cup qualification
-2016-10-11,Curaçao,Puerto Rico,1494.0711949820031,1522.0039629871137,CFU Caribbean Cup qualification
+2016-10-11,Puerto Rico,Curacao,1479.6515479694765,1451.718779964366,CFU Caribbean Cup qualification
+2016-10-11,Curacao,Puerto Rico,1494.0711949820031,1522.0039629871137,CFU Caribbean Cup qualification
 2016-10-11,Qatar,Syria,1584.8787696320906,1596.1480823128888,FIFA World Cup qualification
 2016-10-11,Syria,Qatar,1596.6162556563256,1585.3469429755273,FIFA World Cup qualification
 2016-10-11,Saudi Arabia,United Arab Emirates,1647.9226556850806,1667.0880369258816,FIFA World Cup qualification
@@ -8941,8 +8941,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2017-06-22,Chile,Germany,1703.6812633812265,1708.4351382238456,Confederations Cup
 2017-06-22,Jamaica,French Guiana,1484.1984438862517,1488.048080929675,CFU Caribbean Cup
 2017-06-22,French Guiana,Jamaica,1625.213502326834,1621.3638652834106,CFU Caribbean Cup
-2017-06-22,Martinique,Curaçao,1612.502641270714,1597.5101966213294,CFU Caribbean Cup
-2017-06-22,Curaçao,Martinique,1522.0039629871137,1536.9964076364984,CFU Caribbean Cup
+2017-06-22,Martinique,Curacao,1612.502641270714,1597.5101966213294,CFU Caribbean Cup
+2017-06-22,Curacao,Martinique,1522.0039629871137,1536.9964076364984,CFU Caribbean Cup
 2017-06-24,New Zealand,Portugal,1653.0924864490514,1639.809040484231,Confederations Cup
 2017-06-24,Portugal,New Zealand,1760.9633537103482,1774.2467996751686,Confederations Cup
 2017-06-24,Russia,Mexico,1604.7278351930236,1597.4654056267354,Confederations Cup
@@ -8951,8 +8951,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2017-06-25,Australia,Chile,1716.492896506401,1716.2610171524993,Confederations Cup
 2017-06-25,Germany,Cameroon,1878.5543675871727,1885.7104092295926,Confederations Cup
 2017-06-25,Cameroon,Germany,1676.9149673204604,1669.7589256780404,Confederations Cup
-2017-06-25,Jamaica,Curaçao,1488.048080929675,1479.4476792886896,CFU Caribbean Cup
-2017-06-25,Curaçao,Jamaica,1536.9964076364984,1545.5968092774838,CFU Caribbean Cup
+2017-06-25,Jamaica,Curacao,1488.048080929675,1479.4476792886896,CFU Caribbean Cup
+2017-06-25,Curacao,Jamaica,1536.9964076364984,1545.5968092774838,CFU Caribbean Cup
 2017-06-25,Martinique,French Guiana,1597.5101966213294,1585.3529592209582,CFU Caribbean Cup
 2017-06-25,French Guiana,Martinique,1621.3638652834106,1633.521102683782,CFU Caribbean Cup
 2017-06-25,Mauritius,Angola,1336.2135573742994,1327.3045232775082,COSAFA Cup
@@ -9095,8 +9095,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2017-07-08,Nicaragua,Martinique,1518.6416583597168,1506.48693576749,Gold Cup
 2017-07-08,United States,Panama,1695.568239979833,1691.1454756528985,Gold Cup
 2017-07-08,Panama,United States,1630.5164357755937,1634.939200102528,Gold Cup
-2017-07-09,Curaçao,Jamaica,1545.5968092774838,1527.7749366232997,Gold Cup
-2017-07-09,Jamaica,Curaçao,1479.4476792886896,1497.2695519428737,Gold Cup
+2017-07-09,Curacao,Jamaica,1545.5968092774838,1527.7749366232997,Gold Cup
+2017-07-09,Jamaica,Curacao,1479.4476792886896,1497.2695519428737,Gold Cup
 2017-07-09,Mexico,El Salvador,1785.191035815986,1791.0658039246075,Gold Cup
 2017-07-09,El Salvador,Mexico,1539.798728677988,1533.9239605693665,Gold Cup
 2017-07-09,Zambia,Zimbabwe,1586.0447502819227,1569.4199740191532,COSAFA Cup
@@ -9109,8 +9109,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2017-07-12,Nicaragua,Panama,1506.48693576749,1500.0243627166283,Gold Cup
 2017-07-12,United States,Martinique,1691.1454756528985,1696.085505959573,Gold Cup
 2017-07-12,Martinique,United States,1597.507681813185,1592.5676515065104,Gold Cup
-2017-07-13,El Salvador,Curaçao,1533.9239605693665,1548.6585135802345,Gold Cup
-2017-07-13,Curaçao,El Salvador,1527.7749366232997,1513.0403836124317,Gold Cup
+2017-07-13,El Salvador,Curacao,1533.9239605693665,1548.6585135802345,Gold Cup
+2017-07-13,Curacao,El Salvador,1527.7749366232997,1513.0403836124317,Gold Cup
 2017-07-13,Mexico,Jamaica,1791.0658039246075,1784.178094380115,Gold Cup
 2017-07-13,Jamaica,Mexico,1497.2695519428737,1504.1572614873662,Gold Cup
 2017-07-14,Canada,Honduras,1589.3768957027455,1588.6585150016942,Gold Cup
@@ -9125,8 +9125,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2017-07-15,Nicaragua,United States,1500.0243627166283,1494.6375456084415,Gold Cup
 2017-07-16,Burkina Faso,North Korea,1660.5337966261243,1659.195461189508,King's Cup
 2017-07-16,North Korea,Burkina Faso,1613.7546205627539,1615.0929559993701,King's Cup
-2017-07-16,Curaçao,Mexico,1513.0403836124317,1507.8344018792993,Gold Cup
-2017-07-16,Mexico,Curaçao,1784.178094380115,1789.3840761132474,Gold Cup
+2017-07-16,Curacao,Mexico,1513.0403836124317,1507.8344018792993,Gold Cup
+2017-07-16,Mexico,Curacao,1784.178094380115,1789.3840761132474,Gold Cup
 2017-07-16,Jamaica,El Salvador,1504.1572614873662,1505.4311517195347,Gold Cup
 2017-07-16,El Salvador,Jamaica,1548.6585135802345,1547.384623348066,Gold Cup
 2017-07-16,Thailand,Belarus,1522.0481116115766,1516.596441506972,King's Cup
@@ -10251,8 +10251,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2018-09-10,Azerbaijan,Malta,1354.2400857313592,1352.2073078236167,UEFA Nations League
 2018-09-10,Haiti,Sint Maarten,1606.691630180329,1619.237706117202,CONCACAF Nations League qualification
 2018-09-10,Sint Maarten,Haiti,1475.585942532314,1463.039866595441,CONCACAF Nations League qualification
-2018-09-10,Curaçao,Grenada,1507.8344018792993,1522.2542341399176,CONCACAF Nations League qualification
-2018-09-10,Grenada,Curaçao,1407.9081176269353,1393.488285366317,CONCACAF Nations League qualification
+2018-09-10,Curacao,Grenada,1507.8344018792993,1522.2542341399176,CONCACAF Nations League qualification
+2018-09-10,Grenada,Curacao,1407.9081176269353,1393.488285366317,CONCACAF Nations League qualification
 2018-09-11,Iceland,Belgium,1601.1506486268509,1591.5727514837617,UEFA Nations League
 2018-09-11,Belgium,Iceland,1870.7271696984744,1880.3050668415635,UEFA Nations League
 2018-09-11,Spain,Croatia,1826.1853646027546,1836.8470498554511,UEFA Nations League
@@ -10329,8 +10329,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2018-10-12,Eswatini,Egypt,1402.8333525976611,1395.631426111247,African Cup of Nations qualification
 2018-10-12,Cape Verde,Tanzania,1518.4089426184212,1532.0740021027584,African Cup of Nations qualification
 2018-10-12,Tanzania,Cape Verde,1436.9644955202864,1423.2994360359492,African Cup of Nations qualification
-2018-10-12,United States Virgin Islands,Curaçao,1297.138196401223,1284.2465628895818,CONCACAF Nations League qualification
-2018-10-12,Curaçao,United States Virgin Islands,1522.2542341399176,1535.1458676515588,CONCACAF Nations League qualification
+2018-10-12,United States Virgin Islands,Curacao,1297.138196401223,1284.2465628895818,CONCACAF Nations League qualification
+2018-10-12,Curacao,United States Virgin Islands,1522.2542341399176,1535.1458676515588,CONCACAF Nations League qualification
 2018-10-12,Bahamas,Antigua and Barbuda,1475.5844029680813,1433.0442840472588,CONCACAF Nations League qualification
 2018-10-12,Antigua and Barbuda,Bahamas,1420.881435657272,1463.4215545780946,CONCACAF Nations League qualification
 2018-10-12,Dominican Republic,Cayman Islands,1542.2828993729963,1553.170135965451,CONCACAF Nations League qualification
@@ -10689,8 +10689,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2018-11-19,Gibraltar,North Macedonia,1233.475697046008,1226.8381245063197,UEFA Nations League
 2018-11-19,Liechtenstein,Armenia,1180.5519270415737,1183.5331612721864,UEFA Nations League
 2018-11-19,Armenia,Liechtenstein,1387.3740218214002,1384.3927875907875,UEFA Nations League
-2018-11-19,Curaçao,Guadeloupe,1535.1458676515588,1555.9485700144953,CONCACAF Nations League qualification
-2018-11-19,Guadeloupe,Curaçao,1525.0913191435507,1504.2886167806141,CONCACAF Nations League qualification
+2018-11-19,Curacao,Guadeloupe,1535.1458676515588,1555.9485700144953,CONCACAF Nations League qualification
+2018-11-19,Guadeloupe,Curacao,1525.0913191435507,1504.2886167806141,CONCACAF Nations League qualification
 2018-11-19,Martinique,Antigua and Barbuda,1595.4446242394906,1604.8149412539121,CONCACAF Nations League qualification
 2018-11-19,Antigua and Barbuda,Martinique,1463.4215545780946,1454.051237563673,CONCACAF Nations League qualification
 2018-11-20,Portugal,Poland,1806.344769556893,1800.058377947173,UEFA Nations League
@@ -10935,8 +10935,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-03-23,Bahamas,Dominica,1423.754554961807,1401.5146801975782,CONCACAF Nations League qualification
 2019-03-23,Sint Maarten,Saint Martin,1419.31251542449,1431.3633699491131,CONCACAF Nations League qualification
 2019-03-23,Saint Martin,Sint Maarten,1350.1021419436727,1338.0512874190495,CONCACAF Nations League qualification
-2019-03-23,Antigua and Barbuda,Curaçao,1454.051237563673,1469.1331511759781,CONCACAF Nations League qualification
-2019-03-23,Curaçao,Antigua and Barbuda,1555.9485700144953,1540.8666564021903,CONCACAF Nations League qualification
+2019-03-23,Antigua and Barbuda,Curacao,1454.051237563673,1469.1331511759781,CONCACAF Nations League qualification
+2019-03-23,Curacao,Antigua and Barbuda,1555.9485700144953,1540.8666564021903,CONCACAF Nations League qualification
 2019-03-23,Guyana,Belize,1499.0152235368325,1508.6879649975524,CONCACAF Nations League qualification
 2019-03-23,Belize,Guyana,1470.0035310956812,1460.3307896349613,CONCACAF Nations League qualification
 2019-03-23,Suriname,Saint Kitts and Nevis,1490.6051371611225,1510.1940070963133,CONCACAF Nations League qualification
@@ -11289,8 +11289,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-06-17,Shetland,Guernsey,1503.9229891640086,1498.1312657807337,Inter Games
 2019-06-17,Japan,Chile,1746.0925598439178,1721.0582647890146,Copa América
 2019-06-17,Chile,Japan,1631.796866962359,1656.8311620172622,Copa América
-2019-06-17,Curaçao,El Salvador,1540.8666564021903,1531.622316088179,Gold Cup
-2019-06-17,El Salvador,Curaçao,1567.1711074456018,1576.4154477596128,Gold Cup
+2019-06-17,Curacao,El Salvador,1540.8666564021903,1531.622316088179,Gold Cup
+2019-06-17,El Salvador,Curacao,1567.1711074456018,1576.4154477596128,Gold Cup
 2019-06-17,Jamaica,Honduras,1554.0274333155355,1562.4728649820095,Gold Cup
 2019-06-17,Honduras,Jamaica,1599.5746841085956,1591.1292524421217,Gold Cup
 2019-06-18,Ynys Môn,Jersey,1505.635173673761,1516.7925298712382,Inter Games
@@ -11343,8 +11343,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-06-21,Chile,Ecuador,1656.8311620172622,1662.3043288224412,Copa América
 2019-06-21,El Salvador,Jamaica,1576.4154477596128,1576.0143632499314,Gold Cup
 2019-06-21,Jamaica,El Salvador,1562.4728649820095,1562.8739494916908,Gold Cup
-2019-06-21,Honduras,Curaçao,1591.1292524421217,1579.43305875474,Gold Cup
-2019-06-21,Curaçao,Honduras,1531.622316088179,1543.3185097755609,Gold Cup
+2019-06-21,Honduras,Curacao,1591.1292524421217,1579.43305875474,Gold Cup
+2019-06-21,Curacao,Honduras,1531.622316088179,1543.3185097755609,Gold Cup
 2019-06-22,DR Congo,Uganda,1655.1421221272828,1638.331816554879,African Cup of Nations
 2019-06-22,Uganda,DR Congo,1613.0057725919617,1629.8160781643655,African Cup of Nations
 2019-06-22,Nigeria,Burundi,1663.2674980530353,1668.8291841064352,African Cup of Nations
@@ -11391,8 +11391,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-06-25,Guinea-Bissau,Cameroon,1453.307019322758,1445.5775190655986,African Cup of Nations
 2019-06-25,Ghana,Benin,1680.8770667690167,1676.4565636421507,African Cup of Nations
 2019-06-25,Benin,Ghana,1515.9229169622834,1520.3434200891493,African Cup of Nations
-2019-06-25,Jamaica,Curaçao,1562.8739494916908,1562.3116923121113,Gold Cup
-2019-06-25,Curaçao,Jamaica,1543.3185097755609,1543.8807669551404,Gold Cup
+2019-06-25,Jamaica,Curacao,1562.8739494916908,1562.3116923121113,Gold Cup
+2019-06-25,Curacao,Jamaica,1543.3185097755609,1543.8807669551404,Gold Cup
 2019-06-25,Honduras,El Salvador,1579.43305875474,1598.2461086522655,Gold Cup
 2019-06-25,El Salvador,Honduras,1576.0143632499314,1557.2013133524058,Gold Cup
 2019-06-26,Uganda,Zimbabwe,1629.8160781643655,1628.596393963342,African Cup of Nations
@@ -11445,8 +11445,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-06-30,Nigeria,Madagascar,1675.7242261056267,1653.1102547739652,African Cup of Nations
 2019-06-30,Jamaica,Panama,1562.3116923121113,1573.4067886759233,Gold Cup
 2019-06-30,Panama,Jamaica,1600.51243407577,1589.417337711958,Gold Cup
-2019-06-30,United States,Curaçao,1712.2282652354265,1715.745232830065,Gold Cup
-2019-06-30,Curaçao,United States,1543.8807669551404,1540.3637993605018,Gold Cup
+2019-06-30,United States,Curacao,1712.2282652354265,1715.745232830065,Gold Cup
+2019-06-30,Curacao,United States,1543.8807669551404,1540.3637993605018,Gold Cup
 2019-07-01,Kenya,Senegal,1547.1187379119215,1539.1287580752387,African Cup of Nations
 2019-07-01,Senegal,Kenya,1758.7104279332673,1766.70040776995,African Cup of Nations
 2019-07-01,Tanzania,Algeria,1456.2848981297407,1447.449504855346,African Cup of Nations
@@ -11763,8 +11763,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-09-07,Andorra,Turkey,1122.9825690481605,1122.0183088064282,UEFA Euro qualification
 2019-09-07,Canada,Cuba,1642.1697211383437,1649.5463809794414,CONCACAF Nations League
 2019-09-07,Cuba,Canada,1483.9022542961404,1476.5255944550427,CONCACAF Nations League
-2019-09-07,Curaçao,Haiti,1540.3637993605018,1551.658047636259,CONCACAF Nations League
-2019-09-07,Haiti,Curaçao,1685.584220500522,1674.2899722247648,CONCACAF Nations League
+2019-09-07,Curacao,Haiti,1540.3637993605018,1551.658047636259,CONCACAF Nations League
+2019-09-07,Haiti,Curacao,1685.584220500522,1674.2899722247648,CONCACAF Nations League
 2019-09-07,Montserrat,Dominican Republic,1444.0162913521256,1453.1235376394156,CONCACAF Nations League
 2019-09-07,Dominican Republic,Montserrat,1512.916050192619,1503.808803905329,CONCACAF Nations League
 2019-09-07,El Salvador,Saint Lucia,1557.2013133524058,1566.381647473181,CONCACAF Nations League
@@ -11855,8 +11855,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-09-10,Turkey,Moldova,1615.4422832502094,1626.5473096676976,UEFA Euro qualification
 2019-09-10,Cuba,Canada,1476.5255944550427,1471.1309741250122,CONCACAF Nations League
 2019-09-10,Canada,Cuba,1649.5463809794414,1654.9410013094719,CONCACAF Nations League
-2019-09-10,Haiti,Curaçao,1674.2899722247648,1668.6356260068455,CONCACAF Nations League
-2019-09-10,Curaçao,Haiti,1551.658047636259,1557.3123938541783,CONCACAF Nations League
+2019-09-10,Haiti,Curacao,1674.2899722247648,1668.6356260068455,CONCACAF Nations League
+2019-09-10,Curacao,Haiti,1551.658047636259,1557.3123938541783,CONCACAF Nations League
 2019-09-10,Montserrat,Saint Lucia,1453.1235376394156,1450.7317804991974,CONCACAF Nations League
 2019-09-10,Saint Lucia,Montserrat,1468.3841271515764,1470.7758842917947,CONCACAF Nations League
 2019-09-10,Dominican Republic,El Salvador,1503.808803905329,1512.7357114291992,CONCACAF Nations League
@@ -12069,8 +12069,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-10-13,South Sudan,Seychelles,1290.7058449082506,1305.9185030531346,African Cup of Nations qualification
 2019-10-13,Honduras,Martinique,1614.8175270582208,1621.7463365645942,CONCACAF Nations League
 2019-10-13,Martinique,Honduras,1604.5549180720332,1597.6261085656597,CONCACAF Nations League
-2019-10-13,Costa Rica,Curaçao,1689.0060707310204,1683.1769118468217,CONCACAF Nations League
-2019-10-13,Curaçao,Costa Rica,1557.3123938541783,1563.141552738377,CONCACAF Nations League
+2019-10-13,Costa Rica,Curacao,1689.0060707310204,1683.1769118468217,CONCACAF Nations League
+2019-10-13,Curacao,Costa Rica,1557.3123938541783,1563.141552738377,CONCACAF Nations League
 2019-10-13,Saint Kitts and Nevis,Belize,1535.1964921538004,1519.6681479219953,CONCACAF Nations League
 2019-10-13,Belize,Saint Kitts and Nevis,1418.933777713802,1434.4621219456071,CONCACAF Nations League
 2019-10-13,Grenada,French Guiana,1449.7228140733396,1460.6814966976403,CONCACAF Nations League
@@ -12217,8 +12217,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2019-11-14,Moldova,France,1222.8022060550152,1222.3083377713947,UEFA Euro qualification
 2019-11-14,Martinique,Honduras,1597.6261085656597,1595.476187530352,CONCACAF Nations League
 2019-11-14,Honduras,Martinique,1621.7463365645942,1623.896257599902,CONCACAF Nations League
-2019-11-14,Curaçao,Costa Rica,1563.141552738377,1553.7175783622743,CONCACAF Nations League
-2019-11-14,Costa Rica,Curaçao,1683.1769118468217,1692.6008862229244,CONCACAF Nations League
+2019-11-14,Curacao,Costa Rica,1563.141552738377,1553.7175783622743,CONCACAF Nations League
+2019-11-14,Costa Rica,Curacao,1683.1769118468217,1692.6008862229244,CONCACAF Nations League
 2019-11-14,Saint Kitts and Nevis,Grenada,1519.6681479219953,1515.3868836513118,CONCACAF Nations League
 2019-11-14,Grenada,Saint Kitts and Nevis,1460.6814966976403,1464.962760968324,CONCACAF Nations League
 2019-11-14,Belize,French Guiana,1434.4621219456071,1451.0839439725669,CONCACAF Nations League
@@ -13077,8 +13077,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2021-03-25,Grenada,El Salvador,1471.7976087035124,1462.1922933929472,FIFA World Cup qualification
 2021-03-25,Canada,Bermuda,1657.155182935907,1678.3392463339574,FIFA World Cup qualification
 2021-03-25,Bermuda,Canada,1565.9283648786002,1544.74430148055,FIFA World Cup qualification
-2021-03-25,Curaçao,Saint Vincent and the Grenadines,1553.7175783622743,1565.881606083606,FIFA World Cup qualification
-2021-03-25,Saint Vincent and the Grenadines,Curaçao,1415.846696632463,1403.6826689111313,FIFA World Cup qualification
+2021-03-25,Curacao,Saint Vincent and the Grenadines,1553.7175783622743,1565.881606083606,FIFA World Cup qualification
+2021-03-25,Saint Vincent and the Grenadines,Curacao,1415.846696632463,1403.6826689111313,FIFA World Cup qualification
 2021-03-25,Panama,Barbados,1574.0784116826135,1583.795118788931,FIFA World Cup qualification
 2021-03-25,Barbados,Panama,1446.2306716342891,1436.5139645279717,FIFA World Cup qualification
 2021-03-25,Haiti,Belize,1669.8024664945656,1675.7908609390906,FIFA World Cup qualification
@@ -13181,8 +13181,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2021-03-27,Nigeria,Benin,1676.0101331802575,1689.1275599585729,African Cup of Nations qualification
 2021-03-28,Montserrat,El Salvador,1450.4927256392662,1456.861426030835,FIFA World Cup qualification
 2021-03-28,El Salvador,Montserrat,1607.9734927863697,1601.6047923948008,FIFA World Cup qualification
-2021-03-28,Cuba,Curaçao,1453.7724400286536,1443.45131013205,FIFA World Cup qualification
-2021-03-28,Curaçao,Cuba,1565.881606083606,1576.2027359802096,FIFA World Cup qualification
+2021-03-28,Cuba,Curacao,1453.7724400286536,1443.45131013205,FIFA World Cup qualification
+2021-03-28,Curacao,Cuba,1565.881606083606,1576.2027359802096,FIFA World Cup qualification
 2021-03-28,Dominica,Panama,1371.8081301687507,1364.9715950166394,FIFA World Cup qualification
 2021-03-28,Panama,Dominica,1583.795118788931,1590.6316539410423,FIFA World Cup qualification
 2021-03-28,Puerto Rico,Trinidad and Tobago,1378.2353678909199,1380.6563083312317,FIFA World Cup qualification
@@ -13405,8 +13405,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2021-06-05,El Salvador,United States Virgin Islands,1601.6047923948008,1611.9765652325204,FIFA World Cup qualification
 2021-06-05,Aruba,Canada,1366.626677318649,1358.4383713959571,FIFA World Cup qualification
 2021-06-05,Canada,Aruba,1687.120170369629,1695.3084762923208,FIFA World Cup qualification
-2021-06-05,British Virgin Islands,Curaçao,1188.3424181018477,1182.5313037033695,FIFA World Cup qualification
-2021-06-05,Curaçao,British Virgin Islands,1576.2027359802096,1582.0138503786877,FIFA World Cup qualification
+2021-06-05,British Virgin Islands,Curacao,1188.3424181018477,1182.5313037033695,FIFA World Cup qualification
+2021-06-05,Curacao,British Virgin Islands,1576.2027359802096,1582.0138503786877,FIFA World Cup qualification
 2021-06-05,Panama,Anguilla,1590.6316539410423,1593.960014339797,FIFA World Cup qualification
 2021-06-05,Anguilla,Panama,1198.1774813095547,1194.8491209108,FIFA World Cup qualification
 2021-06-05,Turks and Caicos Islands,Haiti,1317.2450114224396,1306.194475981283,FIFA World Cup qualification
@@ -13453,8 +13453,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2021-06-08,Cayman Islands,Bermuda,1339.3824930853268,1347.1497483331557,FIFA World Cup qualification
 2021-06-08,Saint Vincent and the Grenadines,Cuba,1409.0628139202047,1396.0481057990946,FIFA World Cup qualification
 2021-06-08,Cuba,Saint Vincent and the Grenadines,1455.3182465528594,1468.3329546739694,FIFA World Cup qualification
-2021-06-08,Curaçao,Guatemala,1582.0138503786877,1580.870763235748,FIFA World Cup qualification
-2021-06-08,Guatemala,Curaçao,1655.4858082322005,1656.6288953751402,FIFA World Cup qualification
+2021-06-08,Curacao,Guatemala,1582.0138503786877,1580.870763235748,FIFA World Cup qualification
+2021-06-08,Guatemala,Curacao,1655.4858082322005,1656.6288953751402,FIFA World Cup qualification
 2021-06-08,Barbados,Dominica,1450.1961190344778,1447.2252335931307,FIFA World Cup qualification
 2021-06-08,Dominica,Barbados,1380.4617931057098,1383.4326785470569,FIFA World Cup qualification
 2021-06-08,Panama,Dominican Republic,1593.960014339797,1607.5443196525819,FIFA World Cup qualification
@@ -13511,8 +13511,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2021-06-11,Indonesia,United Arab Emirates,1315.8750163038258,1310.2261514534594,FIFA World Cup qualification
 2021-06-12,Haiti,Canada,1692.0568753136026,1673.7811944636248,FIFA World Cup qualification
 2021-06-12,Canada,Haiti,1714.9425019621349,1733.2181828121127,FIFA World Cup qualification
-2021-06-12,Panama,Curaçao,1607.5443196525819,1617.3054841172982,FIFA World Cup qualification
-2021-06-12,Curaçao,Panama,1580.870763235748,1571.1095987710316,FIFA World Cup qualification
+2021-06-12,Panama,Curacao,1607.5443196525819,1617.3054841172982,FIFA World Cup qualification
+2021-06-12,Curacao,Panama,1580.870763235748,1571.1095987710316,FIFA World Cup qualification
 2021-06-12,Saint Kitts and Nevis,El Salvador,1536.3642573093914,1506.7807544888476,FIFA World Cup qualification
 2021-06-12,El Salvador,Saint Kitts and Nevis,1623.149206105652,1652.7327089261958,FIFA World Cup qualification
 2021-06-12,Wales,Switzerland,1665.8504270707224,1665.3287655281254,UEFA Euro
@@ -13571,8 +13571,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2021-06-15,Vietnam,United Arab Emirates,1582.6053182903229,1573.0531281861568,FIFA World Cup qualification
 2021-06-15,Canada,Haiti,1733.2181828121127,1755.020807331531,FIFA World Cup qualification
 2021-06-15,Haiti,Canada,1673.7811944636248,1651.9785699442066,FIFA World Cup qualification
-2021-06-15,Curaçao,Panama,1571.1095987710316,1568.8050812139215,FIFA World Cup qualification
-2021-06-15,Panama,Curaçao,1617.3054841172982,1619.6100016744083,FIFA World Cup qualification
+2021-06-15,Curacao,Panama,1571.1095987710316,1568.8050812139215,FIFA World Cup qualification
+2021-06-15,Panama,Curacao,1617.3054841172982,1619.6100016744083,FIFA World Cup qualification
 2021-06-15,El Salvador,Saint Kitts and Nevis,1652.7327089261958,1661.5220536462234,FIFA World Cup qualification
 2021-06-15,Saint Kitts and Nevis,El Salvador,1506.7807544888476,1497.99140976882,FIFA World Cup qualification
 2021-06-15,Hungary,Portugal,1612.38542590255,1600.9862548678666,UEFA Euro
@@ -15229,8 +15229,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2022-06-03,Lesotho,Comoros,1382.8095644672378,1367.3140589440113,African Cup of Nations qualification
 2022-06-03,Ivory Coast,Zambia,1709.8576989312655,1717.417134763991,African Cup of Nations qualification
 2022-06-03,Zambia,Ivory Coast,1531.9164992199746,1524.3570633872491,African Cup of Nations qualification
-2022-06-03,Curaçao,Honduras,1568.8050812139215,1554.464324436563,CONCACAF Nations League
-2022-06-03,Honduras,Curaçao,1507.279596930373,1521.6203537077315,CONCACAF Nations League
+2022-06-03,Curacao,Honduras,1568.8050812139215,1554.464324436563,CONCACAF Nations League
+2022-06-03,Honduras,Curacao,1507.279596930373,1521.6203537077315,CONCACAF Nations League
 2022-06-03,Bahamas,Saint Vincent and the Grenadines,1342.659125173437,1351.0107449620828,CONCACAF Nations League
 2022-06-03,Saint Vincent and the Grenadines,Bahamas,1384.8611958823187,1376.5095760936729,CONCACAF Nations League
 2022-06-03,Nicaragua,Trinidad and Tobago,1510.8713832281749,1519.833642301491,CONCACAF Nations League
@@ -15339,8 +15339,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2022-06-05,Malta,San Marino,1181.563572583824,1191.1713194603308,UEFA Nations League
 2022-06-06,Equatorial Guinea,Libya,1534.2528673124662,1546.6632085689425,African Cup of Nations qualification
 2022-06-06,Libya,Equatorial Guinea,1466.5344316838648,1454.1240904273884,African Cup of Nations qualification
-2022-06-06,Honduras,Curaçao,1521.6203537077315,1509.7111653532336,CONCACAF Nations League
-2022-06-06,Curaçao,Honduras,1554.464324436563,1566.3735127910609,CONCACAF Nations League
+2022-06-06,Honduras,Curacao,1521.6203537077315,1509.7111653532336,CONCACAF Nations League
+2022-06-06,Curacao,Honduras,1554.464324436563,1566.3735127910609,CONCACAF Nations League
 2022-06-06,Saint Vincent and the Grenadines,Nicaragua,1376.5095760936729,1377.7501197649976,CONCACAF Nations League
 2022-06-06,Nicaragua,Saint Vincent and the Grenadines,1519.833642301491,1518.5930986301662,CONCACAF Nations League
 2022-06-06,Trinidad and Tobago,Bahamas,1565.7240432365952,1568.5328550817628,CONCACAF Nations League
@@ -15459,8 +15459,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2022-06-09,South Africa,Morocco,1625.6488735366377,1620.171702046499,African Cup of Nations qualification
 2022-06-09,Panama,Martinique,1683.5175487774347,1692.3926257301894,CONCACAF Nations League
 2022-06-09,Martinique,Panama,1565.543085177346,1556.6680082245914,CONCACAF Nations League
-2022-06-09,Canada,Curaçao,1829.6301026799485,1833.808868012064,CONCACAF Nations League
-2022-06-09,Curaçao,Canada,1566.3735127910609,1562.1947474589454,CONCACAF Nations League
+2022-06-09,Canada,Curacao,1829.6301026799485,1833.808868012064,CONCACAF Nations League
+2022-06-09,Curacao,Canada,1566.3735127910609,1562.1947474589454,CONCACAF Nations League
 2022-06-09,Barbados,Guadeloupe,1404.388304358585,1397.467954306729,CONCACAF Nations League
 2022-06-09,Guadeloupe,Barbados,1514.9755276243088,1521.8958776761647,CONCACAF Nations League
 2022-06-09,Antigua and Barbuda,Cuba,1493.4244996567238,1476.7762031991028,CONCACAF Nations League
@@ -16239,8 +16239,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2023-03-25,Romania,Andorra,1537.526663551715,1544.090226115257,UEFA Euro qualification
 2023-03-25,Martinique,Costa Rica,1557.692636877759,1550.087701690636,CONCACAF Nations League
 2023-03-25,Costa Rica,Martinique,1742.5539508229506,1750.1588860100735,CONCACAF Nations League
-2023-03-25,Curaçao,Canada,1562.1947474589454,1550.7993782634587,CONCACAF Nations League
-2023-03-25,Canada,Curaçao,1747.3518097982517,1758.7471789937383,CONCACAF Nations League
+2023-03-25,Curacao,Canada,1562.1947474589454,1550.7993782634587,CONCACAF Nations League
+2023-03-25,Canada,Curacao,1747.3518097982517,1758.7471789937383,CONCACAF Nations League
 2023-03-25,Bermuda,Guyana,1514.6633042217898,1492.654704069827,CONCACAF Nations League
 2023-03-25,Guyana,Bermuda,1438.675480516307,1460.6840806682699,CONCACAF Nations League
 2023-03-25,Montserrat,Haiti,1460.9490332907137,1448.917492334698,CONCACAF Nations League
@@ -16413,8 +16413,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2023-06-16,Guadeloupe,Antigua and Barbuda,1504.1853896588354,1530.812331433764,Gold Cup qualification
 2023-06-16,Martinique,Saint Lucia,1550.087701690636,1567.4369701320425,Gold Cup qualification
 2023-06-16,Saint Lucia,Martinique,1469.1175180290857,1451.7682495876793,Gold Cup qualification
-2023-06-16,Curaçao,Saint Kitts and Nevis,1550.7993782634587,1549.1780671545937,Gold Cup qualification
-2023-06-16,Saint Kitts and Nevis,Curaçao,1513.0986887743634,1514.7199998832284,Gold Cup qualification
+2023-06-16,Curacao,Saint Kitts and Nevis,1550.7993782634587,1549.1780671545937,Gold Cup qualification
+2023-06-16,Saint Kitts and Nevis,Curacao,1513.0986887743634,1514.7199998832284,Gold Cup qualification
 2023-06-16,Gibraltar,France,1103.3139903792944,1102.9099018084517,UEFA Euro qualification
 2023-06-16,France,Gibraltar,1947.4448197340168,1947.8489083048596,UEFA Euro qualification
 2023-06-16,Greece,Republic of Ireland,1572.2102313340054,1582.1410560674208,UEFA Euro qualification
@@ -16815,8 +16815,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2023-09-04,Benin,Mozambique,1490.900741381932,1478.9855649820727,African Cup of Nations qualification
 2023-09-06,Libya,Equatorial Guinea,1431.265472184345,1433.8174055928712,African Cup of Nations qualification
 2023-09-06,Equatorial Guinea,Libya,1590.9546960264774,1588.4027626179513,African Cup of Nations qualification
-2023-09-07,Trinidad and Tobago,Curaçao,1567.1732013131652,1573.9018444140847,CONCACAF Nations League
-2023-09-07,Curaçao,Trinidad and Tobago,1549.1780671545937,1542.4494240536742,CONCACAF Nations League
+2023-09-07,Trinidad and Tobago,Curacao,1567.1732013131652,1573.9018444140847,CONCACAF Nations League
+2023-09-07,Curacao,Trinidad and Tobago,1549.1780671545937,1542.4494240536742,CONCACAF Nations League
 2023-09-07,Panama,Martinique,1714.3624024988696,1721.504646550919,CONCACAF Nations League
 2023-09-07,Martinique,Panama,1577.917825172351,1570.7755811203017,CONCACAF Nations League
 2023-09-07,Guatemala,El Salvador,1658.806362200217,1667.5577844147767,CONCACAF Nations League
@@ -16941,8 +16941,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2023-09-10,Panama,Guatemala,1721.504646550919,1722.8224535129225,CONCACAF Nations League
 2023-09-10,El Salvador,Trinidad and Tobago,1595.9544479573904,1582.5792071955652,CONCACAF Nations League
 2023-09-10,Trinidad and Tobago,El Salvador,1573.9018444140847,1587.2770851759099,CONCACAF Nations League
-2023-09-10,Martinique,Curaçao,1570.7755811203017,1577.24133004439,CONCACAF Nations League
-2023-09-10,Curaçao,Martinique,1542.4494240536742,1535.983675129586,CONCACAF Nations League
+2023-09-10,Martinique,Curacao,1570.7755811203017,1577.24133004439,CONCACAF Nations League
+2023-09-10,Curacao,Martinique,1542.4494240536742,1535.983675129586,CONCACAF Nations League
 2023-09-10,Guadeloupe,Sint Maarten,1573.6301810450552,1579.524396737785,CONCACAF Nations League
 2023-09-10,Sint Maarten,Guadeloupe,1379.1672773118764,1373.2730616191466,CONCACAF Nations League
 2023-09-10,Saint Lucia,Saint Kitts and Nevis,1467.6962048052544,1478.8669814024547,CONCACAF Nations League
@@ -17109,8 +17109,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2023-10-12,Kosovo,Andorra,1395.2527662229948,1410.234189663737,UEFA Euro qualification
 2023-10-12,Belarus,Romania,1311.0635055827167,1320.2872103765399,UEFA Euro qualification
 2023-10-12,Romania,Belarus,1560.0999795248017,1550.8762747309784,UEFA Euro qualification
-2023-10-13,Curaçao,Panama,1535.983675129586,1528.4323174373476,CONCACAF Nations League
-2023-10-13,Panama,Curaçao,1722.8224535129225,1730.3738112051608,CONCACAF Nations League
+2023-10-13,Curacao,Panama,1535.983675129586,1528.4323174373476,CONCACAF Nations League
+2023-10-13,Panama,Curacao,1722.8224535129225,1730.3738112051608,CONCACAF Nations League
 2023-10-13,Martinique,El Salvador,1577.24133004439,1584.582210951499,CONCACAF Nations League
 2023-10-13,El Salvador,Martinique,1582.5792071955652,1575.2383262884562,CONCACAF Nations League
 2023-10-13,Trinidad and Tobago,Guatemala,1587.2770851759099,1596.6723274290216,CONCACAF Nations League
@@ -17215,8 +17215,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2023-10-17,Martinique,El Salvador,1584.582210951499,1587.1338560420197,CONCACAF Nations League
 2023-10-17,Panama,Guatemala,1730.3738112051608,1739.7942383952277,CONCACAF Nations League
 2023-10-17,Guatemala,Panama,1656.8447351996615,1647.4243080095946,CONCACAF Nations League
-2023-10-17,Curaçao,Trinidad and Tobago,1528.4323174373476,1542.064935061483,CONCACAF Nations League
-2023-10-17,Trinidad and Tobago,Curaçao,1596.6723274290216,1583.0397098048861,CONCACAF Nations League
+2023-10-17,Curacao,Trinidad and Tobago,1528.4323174373476,1542.064935061483,CONCACAF Nations League
+2023-10-17,Trinidad and Tobago,Curacao,1596.6723274290216,1583.0397098048861,CONCACAF Nations League
 2023-10-17,Bermuda,Belize,1486.9442734955373,1482.1843477570553,CONCACAF Nations League
 2023-10-17,Belize,Bermuda,1407.0455812362159,1411.805506974698,CONCACAF Nations League
 2023-10-17,Antigua and Barbuda,Bahamas,1415.09829772492,1409.2702845547249,CONCACAF Nations League
@@ -18077,8 +18077,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-06-05,Bermuda,Antigua and Barbuda,1467.4807342585195,1468.1739926351522,FIFA World Cup qualification
 2024-06-05,Trinidad and Tobago,Grenada,1579.5070692711251,1569.0308588140629,FIFA World Cup qualification
 2024-06-05,Grenada,Trinidad and Tobago,1379.254095049407,1389.7303055064692,FIFA World Cup qualification
-2024-06-05,Curaçao,Barbados,1542.064935061483,1549.7565308869225,FIFA World Cup qualification
-2024-06-05,Barbados,Curaçao,1335.9277262659737,1328.2361304405342,FIFA World Cup qualification
+2024-06-05,Curacao,Barbados,1542.064935061483,1549.7565308869225,FIFA World Cup qualification
+2024-06-05,Barbados,Curacao,1335.9277262659737,1328.2361304405342,FIFA World Cup qualification
 2024-06-05,Nicaragua,Montserrat,1596.1072469408757,1606.269873086443,FIFA World Cup qualification
 2024-06-05,Montserrat,Nicaragua,1448.2200604367965,1438.0574342912291,FIFA World Cup qualification
 2024-06-05,Guatemala,Dominica,1647.4243080095946,1654.2241027778186,FIFA World Cup qualification
@@ -18181,8 +18181,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-06-08,Antigua and Barbuda,Cayman Islands,1382.856432341002,1368.4465465383346,FIFA World Cup qualification
 2024-06-08,Bahamas,Trinidad and Tobago,1282.5437044871492,1272.8702940480455,FIFA World Cup qualification
 2024-06-08,Trinidad and Tobago,Bahamas,1569.0308588140629,1578.7042692531666,FIFA World Cup qualification
-2024-06-08,Aruba,Curaçao,1402.5267122007785,1383.0666229300941,FIFA World Cup qualification
-2024-06-08,Curaçao,Aruba,1549.7565308869225,1569.2166201576067,FIFA World Cup qualification
+2024-06-08,Aruba,Curacao,1402.5267122007785,1383.0666229300941,FIFA World Cup qualification
+2024-06-08,Curacao,Aruba,1549.7565308869225,1569.2166201576067,FIFA World Cup qualification
 2024-06-08,Belize,Nicaragua,1408.0273561591468,1387.3780212218776,FIFA World Cup qualification
 2024-06-08,Nicaragua,Belize,1606.269873086443,1626.9192080237124,FIFA World Cup qualification
 2024-06-08,British Virgin Islands,Guatemala,1193.5322593093524,1187.6826641741459,FIFA World Cup qualification
@@ -18621,8 +18621,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-09-06,Cuba,Jamaica,1476.773610782409,1483.3273288086755,CONCACAF Nations League
 2024-09-06,Honduras,Trinidad and Tobago,1593.198218490766,1606.1541768620807,CONCACAF Nations League
 2024-09-06,Trinidad and Tobago,Honduras,1578.7042692531666,1565.748310881852,CONCACAF Nations League
-2024-09-06,Saint Lucia,Curaçao,1457.6403431217946,1470.7457377821079,CONCACAF Nations League
-2024-09-06,Curaçao,Saint Lucia,1569.2166201576067,1556.1112254972934,CONCACAF Nations League
+2024-09-06,Saint Lucia,Curacao,1457.6403431217946,1470.7457377821079,CONCACAF Nations League
+2024-09-06,Curacao,Saint Lucia,1569.2166201576067,1556.1112254972934,CONCACAF Nations League
 2024-09-06,Grenada,Saint Martin,1378.2163738049137,1389.9346342665597,CONCACAF Nations League
 2024-09-06,Saint Martin,Grenada,1400.9546256533024,1389.2363651916564,CONCACAF Nations League
 2024-09-06,Sint Maarten,Aruba,1389.2809768376726,1404.1554670265627,CONCACAF Nations League
@@ -18741,8 +18741,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-09-09,Guyana,Martinique,1506.6902104426945,1511.2803410870501,CONCACAF Nations League
 2024-09-09,Guatemala,Costa Rica,1668.1683821640715,1666.7399389022205,CONCACAF Nations League
 2024-09-09,Costa Rica,Guatemala,1718.1974332503792,1719.6258765122302,CONCACAF Nations League
-2024-09-09,Curaçao,Saint Martin,1556.1112254972934,1566.6279647698293,CONCACAF Nations League
-2024-09-09,Saint Martin,Curaçao,1389.2363651916564,1378.7196259191205,CONCACAF Nations League
+2024-09-09,Curacao,Saint Martin,1556.1112254972934,1566.6279647698293,CONCACAF Nations League
+2024-09-09,Saint Martin,Curacao,1389.2363651916564,1378.7196259191205,CONCACAF Nations League
 2024-09-09,Grenada,Saint Lucia,1389.9346342665597,1379.3828943172769,CONCACAF Nations League
 2024-09-09,Saint Lucia,Grenada,1470.7457377821079,1481.2974777313907,CONCACAF Nations League
 2024-09-09,Haiti,Sint Maarten,1705.5568466852135,1711.5547827315334,CONCACAF Nations League
@@ -18983,8 +18983,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-10-11,Costa Rica,Suriname,1719.6258765122302,1717.9475088199465,CONCACAF Nations League
 2024-10-11,Guyana,Guatemala,1511.2803410870501,1498.6545930047766,CONCACAF Nations League
 2024-10-11,Guatemala,Guyana,1666.7399389022205,1679.365686984494,CONCACAF Nations League
-2024-10-11,Grenada,Curaçao,1379.3828943172769,1384.3047053315327,CONCACAF Nations League
-2024-10-11,Curaçao,Grenada,1566.6279647698293,1561.7061537555735,CONCACAF Nations League
+2024-10-11,Grenada,Curacao,1379.3828943172769,1384.3047053315327,CONCACAF Nations League
+2024-10-11,Curacao,Grenada,1566.6279647698293,1561.7061537555735,CONCACAF Nations League
 2024-10-11,Saint Lucia,Saint Martin,1481.2974777313907,1486.04857535773,CONCACAF Nations League
 2024-10-11,Saint Martin,Saint Lucia,1378.7196259191205,1373.9685282927812,CONCACAF Nations League
 2024-10-11,Sint Maarten,Puerto Rico,1398.1575309802429,1410.4151518203341,CONCACAF Nations League
@@ -19087,8 +19087,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-10-14,Honduras,Jamaica,1606.849951207866,1611.301318160194,CONCACAF Nations League
 2024-10-14,Trinidad and Tobago,Cuba,1563.9659876635933,1571.8335453894388,CONCACAF Nations League
 2024-10-14,Cuba,Trinidad and Tobago,1484.290226838149,1476.4226691123035,CONCACAF Nations League
-2024-10-14,Curaçao,Grenada,1561.7061537555735,1567.002009383133,CONCACAF Nations League
-2024-10-14,Grenada,Curaçao,1384.3047053315327,1379.0088497039728,CONCACAF Nations League
+2024-10-14,Curacao,Grenada,1561.7061537555735,1567.002009383133,CONCACAF Nations League
+2024-10-14,Grenada,Curacao,1384.3047053315327,1379.0088497039728,CONCACAF Nations League
 2024-10-14,Saint Lucia,Saint Martin,1486.04857535773,1456.7046053482568,CONCACAF Nations League
 2024-10-14,Saint Martin,Saint Lucia,1373.9685282927812,1403.3124983022544,CONCACAF Nations League
 2024-10-14,Puerto Rico,Sint Maarten,1465.7126091773082,1474.1343247589664,CONCACAF Nations League
@@ -19311,8 +19311,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-11-15,Gibraltar,San Marino,1082.9783361495004,1081.1962735721563,UEFA Nations League
 2024-11-15,Saint Lucia,Grenada,1456.7046053482568,1433.5251432093698,CONCACAF Nations League
 2024-11-15,Grenada,Saint Lucia,1379.0088497039728,1402.1883118428598,CONCACAF Nations League
-2024-11-15,Curaçao,Saint Martin,1567.002009383133,1574.1927367729163,CONCACAF Nations League
-2024-11-15,Saint Martin,Curaçao,1403.3124983022544,1396.1217709124712,CONCACAF Nations League
+2024-11-15,Curacao,Saint Martin,1567.002009383133,1574.1927367729163,CONCACAF Nations League
+2024-11-15,Saint Martin,Curacao,1403.3124983022544,1396.1217709124712,CONCACAF Nations League
 2024-11-15,Puerto Rico,Aruba,1474.1343247589664,1482.5318597786436,CONCACAF Nations League
 2024-11-15,Aruba,Puerto Rico,1355.2639038025357,1346.8663687828584,CONCACAF Nations League
 2024-11-15,Sint Maarten,Haiti,1401.993436238676,1396.549036126551,CONCACAF Nations League
@@ -19429,8 +19429,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2024-11-18,San Marino,Liechtenstein,922.177000669712,944.7462248993957,UEFA Nations League
 2024-11-18,Grenada,Saint Martin,1402.1883118428598,1384.3827769962222,CONCACAF Nations League
 2024-11-18,Saint Martin,Grenada,1396.1217709124712,1413.9273057591088,CONCACAF Nations League
-2024-11-18,Saint Lucia,Curaçao,1433.5251432093698,1418.0642273002723,CONCACAF Nations League
-2024-11-18,Curaçao,Saint Lucia,1574.1927367729163,1589.653652682014,CONCACAF Nations League
+2024-11-18,Saint Lucia,Curacao,1433.5251432093698,1418.0642273002723,CONCACAF Nations League
+2024-11-18,Curacao,Saint Lucia,1574.1927367729163,1589.653652682014,CONCACAF Nations League
 2024-11-18,Aruba,Sint Maarten,1346.8663687828584,1338.2866829770428,CONCACAF Nations League
 2024-11-18,Sint Maarten,Aruba,1396.549036126551,1405.1287219323667,CONCACAF Nations League
 2024-11-18,Puerto Rico,Haiti,1482.5318597786436,1471.978583284706,CONCACAF Nations League
@@ -20053,8 +20053,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-06-06,Cuba,Antigua and Barbuda,1454.6187070200367,1468.169523076732,FIFA World Cup qualification
 2025-06-06,Trinidad and Tobago,Saint Kitts and Nevis,1571.2003657186503,1584.036756854026,FIFA World Cup qualification
 2025-06-06,Saint Kitts and Nevis,Trinidad and Tobago,1456.5517205355618,1443.7153294001862,FIFA World Cup qualification
-2025-06-06,Curaçao,Saint Lucia,1589.653652682014,1599.5237790281003,FIFA World Cup qualification
-2025-06-06,Saint Lucia,Curaçao,1418.0642273002723,1408.1941009541858,FIFA World Cup qualification
+2025-06-06,Curacao,Saint Lucia,1589.653652682014,1599.5237790281003,FIFA World Cup qualification
+2025-06-06,Saint Lucia,Curacao,1418.0642273002723,1408.1941009541858,FIFA World Cup qualification
 2025-06-06,Nicaragua,Guyana,1592.7750251335797,1600.9071220139497,FIFA World Cup qualification
 2025-06-06,Guyana,Nicaragua,1520.933186214516,1512.801089334146,FIFA World Cup qualification
 2025-06-06,Guatemala,Dominican Republic,1657.1481634368267,1668.805846250525,FIFA World Cup qualification
@@ -20183,8 +20183,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-06-10,Trinidad and Tobago,Costa Rica,1584.036756854026,1578.4983975583875,FIFA World Cup qualification
 2025-06-10,Saint Lucia,Barbados,1408.1941009541858,1416.2561137944222,FIFA World Cup qualification
 2025-06-10,Barbados,Saint Lucia,1334.292783976439,1326.2307711362027,FIFA World Cup qualification
-2025-06-10,Haiti,Curaçao,1748.2323435648382,1708.227939405302,FIFA World Cup qualification
-2025-06-10,Curaçao,Haiti,1599.5237790281003,1639.5281831876364,FIFA World Cup qualification
+2025-06-10,Haiti,Curacao,1748.2323435648382,1708.227939405302,FIFA World Cup qualification
+2025-06-10,Curacao,Haiti,1599.5237790281003,1639.5281831876364,FIFA World Cup qualification
 2025-06-10,Guyana,Montserrat,1512.801089334146,1524.8232310894825,FIFA World Cup qualification
 2025-06-10,Montserrat,Guyana,1401.9068170793948,1389.8846753240582,FIFA World Cup qualification
 2025-06-10,Panama,Nicaragua,1759.0098169795408,1768.6991749951796,FIFA World Cup qualification
@@ -20209,8 +20209,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-06-16,Guadeloupe,Panama,1620.808486920751,1610.338078932119,Gold Cup
 2025-06-16,Jamaica,Guatemala,1683.9323979571095,1672.9481812690246,Gold Cup
 2025-06-16,Guatemala,Jamaica,1649.6261473413035,1660.6103640293884,Gold Cup
-2025-06-17,Curaçao,El Salvador,1639.5281831876364,1638.2108739078567,Gold Cup
-2025-06-17,El Salvador,Curaçao,1593.4926420472375,1594.8099513270172,Gold Cup
+2025-06-17,Curacao,El Salvador,1639.5281831876364,1638.2108739078567,Gold Cup
+2025-06-17,El Salvador,Curacao,1593.4926420472375,1594.8099513270172,Gold Cup
 2025-06-17,Canada,Honduras,1765.2403635303863,1774.48597377939,Gold Cup
 2025-06-17,Honduras,Canada,1656.451750654444,1647.2061404054402,Gold Cup
 2025-06-18,Costa Rica,Dominican Republic,1753.6550286470383,1758.7707843046833,Gold Cup
@@ -20225,8 +20225,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-06-20,Guadeloupe,Jamaica,1610.338078932119,1602.1208857010854,Gold Cup
 2025-06-20,Guatemala,Panama,1660.6103640293884,1653.896211380449,Gold Cup
 2025-06-20,Panama,Guatemala,1779.1695829838116,1785.883735632751,Gold Cup
-2025-06-21,Curaçao,Canada,1638.2108739078567,1641.943695793283,Gold Cup
-2025-06-21,Canada,Curaçao,1774.48597377939,1770.7531518939636,Gold Cup
+2025-06-21,Curacao,Canada,1638.2108739078567,1641.943695793283,Gold Cup
+2025-06-21,Canada,Curacao,1774.48597377939,1770.7531518939636,Gold Cup
 2025-06-21,Honduras,El Salvador,1647.2061404054402,1659.9610097863488,Gold Cup
 2025-06-21,El Salvador,Honduras,1594.8099513270172,1582.0550819461087,Gold Cup
 2025-06-22,Mexico,Costa Rica,1827.3572412138549,1825.4084139075094,Gold Cup
@@ -20237,8 +20237,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-06-22,Trinidad and Tobago,Saudi Arabia,1575.8419955541517,1579.4233228346245,Gold Cup
 2025-06-22,United States,Haiti,1787.249504326796,1792.2099062708007,Gold Cup
 2025-06-22,Haiti,United States,1694.5617601061017,1689.601358162097,Gold Cup
-2025-06-24,Honduras,Curaçao,1659.9610097863488,1669.4428941682177,Gold Cup
-2025-06-24,Curaçao,Honduras,1641.943695793283,1632.4618114114141,Gold Cup
+2025-06-24,Honduras,Curacao,1659.9610097863488,1669.4428941682177,Gold Cup
+2025-06-24,Curacao,Honduras,1641.943695793283,1632.4618114114141,Gold Cup
 2025-06-24,Canada,El Salvador,1770.7531518939636,1778.3229983647718,Gold Cup
 2025-06-24,El Salvador,Canada,1582.0550819461087,1574.4852354753004,Gold Cup
 2025-06-24,Panama,Jamaica,1785.883735632751,1798.2632944615386,Gold Cup
@@ -20403,8 +20403,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-09-05,Czech Republic,Montenegro,1614.654421739658,1631.673453180772,FIFA World Cup qualification
 2025-09-05,Bermuda,Jamaica,1461.8313775814252,1441.8377852220606,FIFA World Cup qualification
 2025-09-05,Jamaica,Bermuda,1668.7858156712707,1688.7794080306353,FIFA World Cup qualification
-2025-09-05,Trinidad and Tobago,Curaçao,1579.4233228346245,1577.4080891726724,FIFA World Cup qualification
-2025-09-05,Curaçao,Trinidad and Tobago,1632.4618114114141,1634.4770450733663,FIFA World Cup qualification
+2025-09-05,Trinidad and Tobago,Curacao,1579.4233228346245,1577.4080891726724,FIFA World Cup qualification
+2025-09-05,Curacao,Trinidad and Tobago,1632.4618114114141,1634.4770450733663,FIFA World Cup qualification
 2025-09-05,Haiti,Honduras,1689.601358162097,1688.6419548857184,FIFA World Cup qualification
 2025-09-05,Honduras,Haiti,1667.3489248188205,1668.3083280951992,FIFA World Cup qualification
 2025-09-05,Nicaragua,Costa Rica,1591.2177639983108,1594.3286274457741,FIFA World Cup qualification
@@ -20547,8 +20547,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-09-09,England,Serbia,1885.4182486698467,1905.989980610925,FIFA World Cup qualification
 2025-09-09,Jamaica,Trinidad and Tobago,1688.7794080306353,1699.062299461428,FIFA World Cup qualification
 2025-09-09,Trinidad and Tobago,Jamaica,1577.4080891726724,1567.1251977418797,FIFA World Cup qualification
-2025-09-09,Curaçao,Bermuda,1634.4770450733663,1639.1717951826063,FIFA World Cup qualification
-2025-09-09,Bermuda,Curaçao,1441.8377852220606,1437.1430351128206,FIFA World Cup qualification
+2025-09-09,Curacao,Bermuda,1634.4770450733663,1639.1717951826063,FIFA World Cup qualification
+2025-09-09,Bermuda,Curacao,1441.8377852220606,1437.1430351128206,FIFA World Cup qualification
 2025-09-09,Costa Rica,Haiti,1761.2224369185967,1754.3293538069008,FIFA World Cup qualification
 2025-09-09,Haiti,Costa Rica,1688.6419548857184,1695.5350379974143,FIFA World Cup qualification
 2025-09-09,Honduras,Nicaragua,1668.3083280951992,1680.3973576003993,FIFA World Cup qualification
@@ -20677,8 +20677,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-10-10,Panama,El Salvador,1780.9928275985055,1791.6525605709899,FIFA World Cup qualification
 2025-10-10,Bermuda,Trinidad and Tobago,1437.1430351128206,1413.1526882592282,FIFA World Cup qualification
 2025-10-10,Trinidad and Tobago,Bermuda,1567.1251977418797,1591.115544595472,FIFA World Cup qualification
-2025-10-10,Curaçao,Jamaica,1639.1717951826063,1659.0857741154857,FIFA World Cup qualification
-2025-10-10,Jamaica,Curaçao,1699.062299461428,1679.1483205285485,FIFA World Cup qualification
+2025-10-10,Curacao,Jamaica,1639.1717951826063,1659.0857741154857,FIFA World Cup qualification
+2025-10-10,Jamaica,Curacao,1699.062299461428,1679.1483205285485,FIFA World Cup qualification
 2025-10-11,United Arab Emirates,Oman,1674.775735237148,1688.3052524099699,FIFA World Cup qualification
 2025-10-11,Oman,United Arab Emirates,1640.6061223023198,1627.076605129498,FIFA World Cup qualification
 2025-10-11,Iraq,Indonesia,1711.1135939924498,1719.1513111243119,FIFA World Cup qualification
@@ -20837,8 +20837,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-10-14,Suriname,Panama,1609.7900051141976,1619.8443230352975,FIFA World Cup qualification
 2025-10-14,El Salvador,Guatemala,1566.8466385013858,1551.161156633974,FIFA World Cup qualification
 2025-10-14,Guatemala,El Salvador,1650.9581856973728,1666.6436675647844,FIFA World Cup qualification
-2025-10-14,Curaçao,Trinidad and Tobago,1659.0857741154857,1652.3506529595995,FIFA World Cup qualification
-2025-10-14,Trinidad and Tobago,Curaçao,1591.115544595472,1597.8506657513583,FIFA World Cup qualification
+2025-10-14,Curacao,Trinidad and Tobago,1659.0857741154857,1652.3506529595995,FIFA World Cup qualification
+2025-10-14,Trinidad and Tobago,Curacao,1591.115544595472,1597.8506657513583,FIFA World Cup qualification
 2025-10-14,Jamaica,Bermuda,1679.1483205285485,1685.329045064771,FIFA World Cup qualification
 2025-10-14,Bermuda,Jamaica,1413.1526882592282,1406.9719637230057,FIFA World Cup qualification
 2025-11-12,Cuba,Saint Lucia,1447.934493084318,1463.8432902280383,CONCACAF Series
@@ -20887,8 +20887,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-11-13,El Salvador,Suriname,1551.161156633974,1535.5045352690797,FIFA World Cup qualification
 2025-11-13,Guatemala,Panama,1666.6436675647844,1652.2889100450118,FIFA World Cup qualification
 2025-11-13,Panama,Guatemala,1781.59824264989,1795.9530001696626,FIFA World Cup qualification
-2025-11-13,Bermuda,Curaçao,1406.9719637230057,1388.8402614070062,FIFA World Cup qualification
-2025-11-13,Curaçao,Bermuda,1652.3506529595995,1670.482355275599,FIFA World Cup qualification
+2025-11-13,Bermuda,Curacao,1406.9719637230057,1388.8402614070062,FIFA World Cup qualification
+2025-11-13,Curacao,Bermuda,1652.3506529595995,1670.482355275599,FIFA World Cup qualification
 2025-11-13,Trinidad and Tobago,Jamaica,1597.8506657513583,1597.3102978693994,FIFA World Cup qualification
 2025-11-13,Jamaica,Trinidad and Tobago,1685.329045064771,1685.8694129467299,FIFA World Cup qualification
 2025-11-13,Haiti,Costa Rica,1698.9090799685225,1716.6634610642864,FIFA World Cup qualification
@@ -21037,8 +21037,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2025-11-18,Suriname,Guatemala,1635.5009444001919,1620.2916080561406,FIFA World Cup qualification
 2025-11-18,Panama,El Salvador,1795.9530001696626,1801.8098814257785,FIFA World Cup qualification
 2025-11-18,El Salvador,Panama,1535.5045352690797,1529.6476540129638,FIFA World Cup qualification
-2025-11-18,Jamaica,Curaçao,1685.8694129467299,1681.0631727710156,FIFA World Cup qualification
-2025-11-18,Curaçao,Jamaica,1670.482355275599,1675.2885954513133,FIFA World Cup qualification
+2025-11-18,Jamaica,Curacao,1685.8694129467299,1681.0631727710156,FIFA World Cup qualification
+2025-11-18,Curacao,Jamaica,1670.482355275599,1675.2885954513133,FIFA World Cup qualification
 2025-11-18,Trinidad and Tobago,Bermuda,1597.3102978693994,1586.6553590178753,FIFA World Cup qualification
 2025-11-18,Bermuda,Trinidad and Tobago,1388.8402614070062,1399.4952002585303,FIFA World Cup qualification
 2025-11-18,Costa Rica,Honduras,1745.6846181084868,1738.8663484400086,FIFA World Cup qualification
@@ -21281,8 +21281,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2026-03-27,Benin,Liberia,1529.5079669625604,1537.5895398157477,"Morocco, Capital of African Football"
 2026-03-27,Libya,Niger,1478.122827496497,1478.7718096634428,"Morocco, Capital of African Football"
 2026-03-27,Niger,Libya,1500.7025133076959,1500.05353114075,"Morocco, Capital of African Football"
-2026-03-27,China PR,Curaçao,1561.6470513120955,1581.3855600777058,FIFA Series
-2026-03-27,Curaçao,China PR,1675.2885954513133,1655.550086685703,FIFA Series
+2026-03-27,China PR,Curacao,1561.6470513120955,1581.3855600777058,FIFA Series
+2026-03-27,Curacao,China PR,1675.2885954513133,1655.550086685703,FIFA Series
 2026-03-27,Australia,Cameroon,1851.5312244979104,1854.8252152231594,FIFA Series
 2026-03-27,Cameroon,Australia,1669.47108603055,1666.177095305301,FIFA Series
 2026-03-27,Azerbaijan,Saint Lucia,1275.2419504552647,1295.809010552242,FIFA Series
@@ -21375,8 +21375,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2026-03-31,Denmark,Czech Republic,1737.1871806848028,1735.8027101470198,FIFA World Cup qualification
 2026-03-31,Cameroon,China PR,1666.177095305301,1677.5873379997247,FIFA Series
 2026-03-31,China PR,Cameroon,1581.3855600777058,1569.9753173832821,FIFA Series
-2026-03-31,Australia,Curaçao,1854.8252152231594,1860.5827932941565,FIFA Series
-2026-03-31,Curaçao,Australia,1655.550086685703,1649.7925086147059,FIFA Series
+2026-03-31,Australia,Curacao,1854.8252152231594,1860.5827932941565,FIFA Series
+2026-03-31,Curacao,Australia,1655.550086685703,1649.7925086147059,FIFA Series
 2026-03-31,Kazakhstan,Comoros,1369.0535818432352,1378.625404431065,FIFA Series
 2026-03-31,Comoros,Kazakhstan,1454.168073574399,1444.5962509865692,FIFA Series
 2026-06-11,Mexico,South Africa,1852.437094102691,1838.0431711612146,FIFA World Cup
@@ -21395,8 +21395,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2026-06-13,Scotland,Haiti,1682.8850032180637,1685.6065521583473,FIFA World Cup
 2026-06-13,Australia,Turkey,1860.5827932941565,1853.8359834275227,FIFA World Cup
 2026-06-13,Turkey,Australia,1738.6021685069493,1745.3489783735831,FIFA World Cup
-2026-06-14,Germany,Curaçao,1826.3015582565586,1816.9333206320423,FIFA World Cup
-2026-06-14,Curaçao,Germany,1649.7925086147059,1659.1607462392221,FIFA World Cup
+2026-06-14,Germany,Curacao,1826.3015582565586,1816.9333206320423,FIFA World Cup
+2026-06-14,Curacao,Germany,1649.7925086147059,1659.1607462392221,FIFA World Cup
 2026-06-14,Ivory Coast,Ecuador,1709.659079021199,1709.925272438146,FIFA World Cup
 2026-06-14,Ecuador,Ivory Coast,1714.2836053922438,1714.0174119752967,FIFA World Cup
 2026-06-14,Netherlands,Japan,1838.4463196720496,1841.788226685857,FIFA World Cup
@@ -21445,8 +21445,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2026-06-19,Paraguay,Turkey,1628.3512988537552,1634.8426912454618,FIFA World Cup
 2026-06-20,Germany,Ivory Coast,1816.9333206320423,1810.961100764403,FIFA World Cup
 2026-06-20,Ivory Coast,Germany,1709.925272438146,1715.8974923057854,FIFA World Cup
-2026-06-20,Ecuador,Curaçao,1714.0174119752967,1710.8855900241304,FIFA World Cup
-2026-06-20,Curaçao,Ecuador,1659.1607462392221,1662.2925681903885,FIFA World Cup
+2026-06-20,Ecuador,Curacao,1714.0174119752967,1710.8855900241304,FIFA World Cup
+2026-06-20,Curacao,Ecuador,1659.1607462392221,1662.2925681903885,FIFA World Cup
 2026-06-20,Netherlands,Sweden,1841.788226685857,1829.146375137109,FIFA World Cup
 2026-06-20,Sweden,Netherlands,1582.9857307568693,1595.6275823056171,FIFA World Cup
 2026-06-20,Tunisia,Japan,1716.9431827887117,1726.322946645861,FIFA World Cup
@@ -21491,8 +21491,8 @@ date,team,opponent,elo_before,elo_after,tournament
 2026-06-25,Turkey,United States,1738.8575859818766,1745.9528906970886,FIFA World Cup
 2026-06-25,Paraguay,Australia,1634.8426912454618,1646.0415766501908,FIFA World Cup
 2026-06-25,Australia,Paraguay,1854.6832525004131,1843.484367095684,FIFA World Cup
-2026-06-25,Curaçao,Ivory Coast,1662.2925681903885,1665.354061598636,FIFA World Cup
-2026-06-25,Ivory Coast,Curaçao,1715.8974923057854,1712.8359988975378,FIFA World Cup
+2026-06-25,Curacao,Ivory Coast,1662.2925681903885,1665.354061598636,FIFA World Cup
+2026-06-25,Ivory Coast,Curacao,1715.8974923057854,1712.8359988975378,FIFA World Cup
 2026-06-25,Ecuador,Germany,1710.8855900241304,1716.4921954184163,FIFA World Cup
 2026-06-25,Germany,Ecuador,1810.961100764403,1805.354495370117,FIFA World Cup
 2026-06-25,Japan,Sweden,1884.329069857055,1870.709357697827,FIFA World Cup

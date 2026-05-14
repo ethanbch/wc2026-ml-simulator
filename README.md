@@ -46,13 +46,19 @@ src/
 ├── features/ # Elo, rolling form, FBref aggregator, feature builder
 ├── models/ # Champion XGBoost, challengers LightGBM / Logistic / Poisson
 ├── evaluation/ # Classification metrics (accuracy, log-loss, Brier)
-└── simulation/ # Monte Carlo tournament simulator
+├── simulation/ # Monte Carlo tournament simulator
+└── pipelines/ # CLI entry points + full pipeline orchestration
+
+extras/ # Optional utilities (scrapers, SHAP, CV helpers, etc.)
 ```
 
-build_dataset.py # Full dataset pipeline (CLI entry point)
-train_models.py # Train champion + challengers (CLI entry point)
-evaluate.py # Evaluate on test split (CLI entry point)
-simulate_wc2026.py # WC 2026 Monte Carlo simulation (CLI entry point)
+src/pipelines/build_dataset.py # Full dataset pipeline (CLI entry point)
+src/pipelines/train_models.py # Train champion + challengers (CLI entry point)
+src/pipelines/evaluate.py # Evaluate on test split (CLI entry point)
+src/pipelines/simulate_wc2026.py # WC 2026 Monte Carlo simulation (CLI entry point)
+src/pipelines/full_pipeline.py # Central orchestration (build -> train -> evaluate -> simulate)
+
+main.py # Convenience entrypoint for the full pipeline
 Makefile # Full pipeline orchestration via make full
 
 ## Installation
@@ -98,7 +104,7 @@ Loads international results, computes Elo ratings, rolling form features, and sq
 aggregates, then exports the match-level dataset:
 
 ```bash
-python build_dataset.py \
+python -m src.pipelines.build_dataset \
   --international-results data/raw/international_results.csv \
   --fifa-rankings data/raw/fifa_rankings.csv \
   --squad-csv data/raw/squads.csv \
@@ -121,7 +127,7 @@ Trains the XGBoost champion (with isotonic calibration over TimeSeriesSplit)
 and all three challengers:
 
 ```bash
-python train_models.py \
+python -m src.pipelines.train_models \
   --dataset data/processed/match_dataset.csv \
   --models-dir data/processed/models \
   --train-end 2022-01-01 \
@@ -140,7 +146,7 @@ make train
 Evaluates all models on the test split and exports per-model confusion matrices:
 
 ```bash
-python evaluate.py \
+python -m src.pipelines.evaluate \
   --dataset data/processed/match_dataset.csv \
   --models-dir data/processed/models \
   --output data/processed/metrics.csv
@@ -155,7 +161,7 @@ make evaluate
 Runs Monte Carlo simulations of the full tournament, from group stage to final:
 
 ```bash
-python simulate_wc2026.py \
+python -m src.pipelines.simulate_wc2026 \
   --model-path data/processed/models/champion_xgboost.pkl \
   --historical-matches data/raw/international_results.csv \
   --fifa-rankings data/raw/fifa_rankings.csv \
@@ -176,6 +182,12 @@ make simulate N_SIMULATIONS=100000
 ### Full Pipeline (One-shot)
 
 ```bash
+python main.py
+
+# Or
+python -m src.pipelines.full_pipeline
+
+# Or via Make
 make full
 ```
 
