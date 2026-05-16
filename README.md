@@ -255,3 +255,19 @@ Confusion matrix plots are saved in `data/processed/plots/`:
 | `cm_challenger_logistic.png` | Logistic Regression confusion matrix |
 | `cm_challenger_lightgbm.png` | LightGBM confusion matrix            |
 | `cm_challenger_poisson.png`  | Poisson challenger confusion matrix  |
+
+## Interactive Streamlit Dashboard
+
+This project includes an interactive Streamlit dashboard to explore the 2026 FIFA World Cup Monte Carlo simulation results.
+
+The dashboard allows users to:
+
+- rank teams by qualification, final, or title probability;
+- select a specific national team and inspect its probability of reaching each tournament stage;
+- compare model benchmark metrics;
+- explore and download the raw simulation results.
+
+To launch the dashboard, run:
+
+```bash
+make dashboard
