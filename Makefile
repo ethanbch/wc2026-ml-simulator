@@ -117,3 +117,6 @@ full:
 
 clean:
 	rm -f "$(TEAM_FEATURES)" "$(MATCH_DATASET)" "$(ELO_HISTORY)" "$(FORM_FEATURES)" "$(SIM_OUTPUT)"
+
+dashboard:
+	streamlit run app/streamlit_app.py
