@@ -203,7 +203,7 @@ def main() -> None:
     parser.add_argument("--team-features", default=None, help="Team features CSV")
     parser.add_argument("--groups-csv", required=True, help="Groups CSV")
     parser.add_argument("--schedule-csv", required=True, help="Schedule CSV")
-    parser.add_argument("--n-simulations", type=int, default=100000)
+    parser.add_argument("--n-simulations", type=int, default=1000)
     parser.add_argument("--output", default="data/processed/wc2026_simulation.csv")
     parser.add_argument("--form-n", type=int, default=8)
     parser.add_argument("--form-decay", type=float, default=0.85)
